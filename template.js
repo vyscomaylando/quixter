@@ -7,9 +7,9 @@
 <p><a href="https://lapak77slot.org/">https://lapak77slot.org/</a></p>
 <p><a href="https://165.22.248.44/">https://165.22.248.44/</a></p>
 <p><a href="https://139.59.103.62/">https://139.59.103.62/</a></p>
-<p><a href"https://kirkleyhotel.com/">https://kirkleyhotel.com/</a></p>
-<p><a href"https://dhammaonlinelibrary.com/">https://dhammaonlinelibrary.com/</a></p>
-<p><a href"https://britishcheeseweekender.com/">https://britishcheeseweekender.com/</a></p>
-<p><a href"https://jurnal.poltekpelsulut.ac.id/google/sbobet/">https://jurnal.poltekpelsulut.ac.id/google/sbobet/</a></p>
-<p><a href"https://jurnal.poltekpelsulut.ac.id/google/sjepang/">https://jurnal.poltekpelsulut.ac.id/google/sjepang/</a></p>
+<p><a href="https://kirkleyhotel.com/">https://kirkleyhotel.com/</a></p>
+<p><a href="https://dhammaonlinelibrary.com/">https://dhammaonlinelibrary.com/</a></p>
+<p><a href="https://britishcheeseweekender.com/">https://britishcheeseweekender.com/</a></p>
+<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sbobet/">https://jurnal.poltekpelsulut.ac.id/google/sbobet/</a></p>
+<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sjepang/">https://jurnal.poltekpelsulut.ac.id/google/sjepang/</a></p>
 </div>
