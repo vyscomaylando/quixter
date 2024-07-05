@@ -1,14 +1,21 @@
 <div style="width:1px;height:1px;overflow:hidden">
-<p><a href="http://simbebas.banyumaskab.go.id/static/qqstar/">http://simbebas.banyumaskab.go.id/static/qqstar/</a></p>
-<p><a href="https://thebodylovesociety.com/">https://thebodylovesociety.com/</a></p>
 <p><a href="https://score8slot.com/">https://score8slot.com/</a></p>
 <p><a href="https://score8sport.com/">https://score8sport.com/</a></p>
+<p><a href="https://lapak77slot.com/">https://lapak77slot.com/</a></p>
+<p><a href="https://lapak77slot.org/">https://lapak77slot.org/</a></p>
 <p><a href="https://165.22.248.44/">https://165.22.248.44/</a></p>
 <p><a href="https://139.59.103.62/">https://139.59.103.62/</a></p>
 <p><a href="https://www.kirkleyhotel.com/">https://www.kirkleyhotel.com/</a></p>
 <p><a href="https://www.dhammaonlinelibrary.com/">https://www.dhammaonlinelibrary.com/</a></p>
 <p><a href="https://britishcheeseweekender.com/">https://britishcheeseweekender.com/</a></p>
-<p><a href="https://www.score8.bio/">https://www.score8.bio/</a></p>
-<p><a href="https://score8slot.org/">https://score8slot.org/</a></p>
-<p><a href="https://score8sport.id/">https://score8sport.id/</a></p>
+<p><a href="https://www.bodybymilk.com/">https://www.bodybymilk.com/</a></p>
+<p><a href="https://loicwacquant.net/">https://loicwacquant.net/</a></p>
+<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sbobet/">https://jurnal.poltekpelsulut.ac.id/google/sbobet/</a></p>
+<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sjepang/">https://jurnal.poltekpelsulut.ac.id/google/sjepang/</a></p>
+<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sthailand/">https://jurnal.poltekpelsulut.ac.id/google/sthailand/</a></p>
+<p><a href="https://jurnal.poltekpelsulut.ac.id/google/livesports088/">https://jurnal.poltekpelsulut.ac.id/google/livesports088/</a></p>
+<p><a href="https://jurnal.poltekpelsulut.ac.id/google/shitam/">https://jurnal.poltekpelsulut.ac.id/google/shitam/</a></p>
+<p><a href="https://jurnal.poltekpelsulut.ac.id/google/shoki/">https://jurnal.poltekpelsulut.ac.id/google/shoki/</a></p>
+<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sqris/">https://jurnal.poltekpelsulut.ac.id/google/sqris/</a></p>
+<p><a href="https://library.itltrisakti.ac.id/sgc/">https://library.itltrisakti.ac.id/sgc/</a></p>
 </div>
