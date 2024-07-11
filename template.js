@@ -10,12 +10,19 @@
 <p><a href="https://britishcheeseweekender.com/">https://britishcheeseweekender.com/</a></p>
 <p><a href="https://www.bodybymilk.com/">https://www.bodybymilk.com/</a></p>
 <p><a href="https://loicwacquant.net/">https://loicwacquant.net/</a></p>
-<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sbobet/">https://jurnal.poltekpelsulut.ac.id/google/sbobet/</a></p>
-<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sjepang/">https://jurnal.poltekpelsulut.ac.id/google/sjepang/</a></p>
-<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sthailand/">https://jurnal.poltekpelsulut.ac.id/google/sthailand/</a></p>
-<p><a href="https://jurnal.poltekpelsulut.ac.id/google/livesports088/">https://jurnal.poltekpelsulut.ac.id/google/livesports088/</a></p>
-<p><a href="https://jurnal.poltekpelsulut.ac.id/google/shitam/">https://jurnal.poltekpelsulut.ac.id/google/shitam/</a></p>
-<p><a href="https://jurnal.poltekpelsulut.ac.id/google/shoki/">https://jurnal.poltekpelsulut.ac.id/google/shoki/</a></p>
-<p><a href="https://jurnal.poltekpelsulut.ac.id/google/sqris/">https://jurnal.poltekpelsulut.ac.id/google/sqris/</a></p>
-<p><a href="https://library.itltrisakti.ac.id/sgc/">https://library.itltrisakti.ac.id/sgc/</a></p>
+<p><a href="https://www.amazingchinesecuisine.com/">https://www.amazingchinesecuisine.com/</a></p>
+<p><a href="https://www.askives.com/">https://www.askives.com/</a></p>
+<p><a href="https://colombianbrides.net/">https://colombianbrides.net/</a></p>
+<p><a href="https://escorpionsas.com/">https://escorpionsas.com/</a></p>
+<p><a href="https://www.healthystores.org/">https://www.healthystores.org/</a></p>
+<p><a href="https://healthysuccessreviews.com/">https://healthysuccessreviews.com/</a></p>
+<p><a href="https://ketobhbpills.org/">https://ketobhbpills.org/</a></p>
+<p><a href="https://meetupislamabad.com/">https://meetupislamabad.com/</a></p>
+<p><a href="https://www.nesdcelticfaire.com/">https://www.nesdcelticfaire.com/</a></p>
+<p><a href="https://www.progettopo.net/">https://www.progettopo.net/</a></p>
+<p><a href="https://www.score8.bio/">https://www.score8.bio/</a></p>
+<p><a href="https://www.score8.co.com/">https://www.score8.co.com/</a></p>
+<p><a href="https://score8slot.org/">https://score8slot.org/</a></p>
+<p><a href="https://score8sport.id/">https://score8sport.id/</a></p>
+<p><a href="https://subwaycrush.net/">https://subwaycrush.net/</a></p>
 </div>
