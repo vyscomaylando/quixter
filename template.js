@@ -25,4 +25,7 @@
 <p><a href="https://score8slot.org/">https://score8slot.org/</a></p>
 <p><a href="https://score8sport.id/">https://score8sport.id/</a></p>
 <p><a href="https://subwaycrush.net/">https://subwaycrush.net/</a></p>
+<p><a href="https://adminseleksijpt.tangerangselatankota.go.id/public/bht/">slot gacor</a></p>
+<p><a href="https://adminseleksijpt.tangerangselatankota.go.id/public/gsc/">slot gacor</a></p>
 </div>
+
