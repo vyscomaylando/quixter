@@ -14,5 +14,6 @@
 <p><a href="http://simbebas.banyumaskab.go.id/static/vendor/bandel88/">http://simbebas.banyumaskab.go.id/static/vendor/bandel88/</a></p>
 <p><a href="http://simbebas.banyumaskab.go.id/static/vendor/zenwin88/">http://simbebas.banyumaskab.go.id/static/vendor/zenwin88/</a></p>
 <p><a href="http://simbebas.banyumaskab.go.id/static/vendor/lapak77/">http://simbebas.banyumaskab.go.id/static/vendor/lapak77/</a></p>
+GACOR
 </div>
 
