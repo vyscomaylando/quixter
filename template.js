@@ -3,5 +3,6 @@
 <p><a href="https://referensi.univ-bd.ac.id/vendor/imbagacor/">imbagacor</a></p>
 <p><a href="https://referensi.univ-bd.ac.id/vendor/imbajp/">imbajp</a></p>
 <p><a href="https://referensi.univ-bd.ac.id/vendor/gk8/">gk8</a></p>
+<p><a href="https://hazladetos.org/">https://hazladetos.org/</a></p>
+<p><a href="https://colombianbrides.net/">https://colombianbrides.net/</a></p>
 </div>
-
