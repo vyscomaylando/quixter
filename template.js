@@ -62,4 +62,6 @@
 <p><a href="https://tte.inkhas.ac.id/system/system/bet200/">https://tte.inkhas.ac.id/system/system/bet200/</a></p>
 <p><a href="https://ejournal.inkhas.ac.id/artikel/">https://ejournal.inkhas.ac.id/artikel/</a></p>
 <p><a href="https://inkhaspress.inkhas.ac.id/belanja/">https://inkhaspress.inkhas.ac.id/belanja/</a></p>
+<p><a href="https://inkhaspress.inkhas.ac.id/artikel/">https://inkhaspress.inkhas.ac.id/artikel/</a></p>
+<p><a href="https://proceeding.inkhas.ac.id/registry/gateofolympus/">https://proceeding.inkhas.ac.id/registry/gateofolympus/</a></p>
 </div>
