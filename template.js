@@ -33,6 +33,8 @@
 <p><a href="https://piercejournal.com/">over138</a></p>
 <p><a href="https://www.frozencortex.com/">https://www.frozencortex.com/</a></p>
 <p><a href="https://www.over138.com/">https://www.over138.com/</a></p>
+<p><a href="https://www.horseandcountrysingles.com/">https://www.horseandcountrysingles.com/</a></p>
+<p><a href="https://ketomegamart.com/">https://ketomegamart.com/</a></p>
 <p><a href="https://findonlineessaywriters.com/">https://findonlineessaywriters.com/</a></p>
 <p><a href="https://unlimiteddetailtechnology.com/">https://unlimiteddetailtechnology.com/</a></p>
 <p><a href="https://www.under138.com/">https://www.under138.com/</a></p>
