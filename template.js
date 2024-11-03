@@ -29,14 +29,29 @@
 <p><a href="https://loicwacquant.net/">https://loicwacquant.net/</a></p>
 <p><a href="https://meetupislamabad.com/">https://meetupislamabad.com/</a></p>
 <p><a href="https://flawedfromthestart.org/">https://flawedfromthestart.org/</a></p>
+<p><a href="https://ketomegamart.com/">https://ketomegamart.com/</a></p>
+<p><a href="https://northlandsclinic.com/">https://northlandsclinic.com/</a></p>
 <p><a href="https://outboundsukabumi.com/">over138</a></p>
 <p><a href="https://piercejournal.com/">over138</a></p>
 <p><a href="https://www.frozencortex.com/">https://www.frozencortex.com/</a></p>
+<p><a href="https://www.horseandcountrysingles.com/">https://www.horseandcountrysingles.com/</a></p>
 <p><a href="https://www.over138.com/">https://www.over138.com/</a></p>
+<p><a href="https://northlandsclinic.com/">https://northlandsclinic.com/</a></p>
+<p><a href="https://urbanyogissg.com/">https://urbanyogissg.com/</a></p>
+<p><a href="https://myannabellelane.com/">https://myannabellelane.com/</a></p>
 <p><a href="https://findonlineessaywriters.com/">https://findonlineessaywriters.com/</a></p>
 <p><a href="https://unlimiteddetailtechnology.com/">https://unlimiteddetailtechnology.com/</a></p>
 <p><a href="https://www.under138.com/">https://www.under138.com/</a></p>
 <p><a href="https://www.under138.info/">https://www.under138.info/</a></p>
+
+<pre>               
+    |\__/,|   (`\
+    |o o  |__ _) brands
+  _.( T   )  `  / 
+ ((_ `^--' /_<  \
+ `` `-'(((/  (((/  
+</pre>
+ 
 <p><a href="https://elektro.umk.ac.id/tmp/Olymp/">https://elektro.umk.ac.id/tmp/Olymp/</a></p>
 <p><a href="https://ti.umk.ac.id/public/lapak77/">https://ti.umk.ac.id/public/lapak77/</a></p>
 <p><a href="https://poltekpelsulut.ac.id/wp-content/lp77/">https://poltekpelsulut.ac.id/wp-content/lp77/</a></p>
