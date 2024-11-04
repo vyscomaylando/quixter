@@ -84,4 +84,8 @@
 <p><a href="https://icon.ftk.uinjambi.ac.id/system/">https://icon.ftk.uinjambi.ac.id/system/</a></p>
 <p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/">https://icon.ftk.uinjambi.ac.id/pages/system/</a></p>
 <p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/over138/">https://icon.ftk.uinjambi.ac.id/pages/system/over138/</a></p>
+<p><a href="http://jpep.fekon.unand.ac.id/artikel/">http://jpep.fekon.unand.ac.id/artikel/</a></p>
+<p><a href="https://edubio.ftk.uinjambi.ac.id/biologi/">https://edubio.ftk.uinjambi.ac.id/biologi/</a></p>
+<p><a href="http://jpep.fekon.unand.ac.id/studi/">http://jpep.fekon.unand.ac.id/studi/</a></p>
+<p><a href="http://jpep.fekon.unand.ac.id/tutorial/">http://jpep.fekon.unand.ac.id/tutorial/</a></p>
 </div>
