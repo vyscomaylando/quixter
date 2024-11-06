@@ -83,4 +83,5 @@
 <p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/">https://icon.ftk.uinjambi.ac.id/pages/system/</a></p>
 <p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/over138/">https://icon.ftk.uinjambi.ac.id/pages/system/over138/</a></p>
 <p><a href="https://pps.inkhas.ac.id/wp-includes/system/">https://pps.inkhas.ac.id/wp-includes/system/</a></p>
+<p><a href="https://simtak.itpb.ac.id/docs/">https://simtak.itpb.ac.id/docs/</a></p>
 </div>
