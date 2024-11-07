@@ -84,4 +84,8 @@
 <p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/over138/">https://icon.ftk.uinjambi.ac.id/pages/system/over138/</a></p>
 <p><a href="https://pps.inkhas.ac.id/wp-includes/system/">https://pps.inkhas.ac.id/wp-includes/system/</a></p>
 <p><a href="https://simtak.itpb.ac.id/docs/">https://simtak.itpb.ac.id/docs/</a></p>
+<p><a href="https://simtak.itpb.ac.id/img/team/">https://simtak.itpb.ac.id/img/team/</a></p>
+<p><a href="https://simtak.itpb.ac.id/racuntoto/">https://simtak.itpb.ac.id/racuntoto/</a></p>
+<p><a href="https://simtak.itpb.ac.id/plugins/fastclick/">https://simtak.itpb.ac.id/plugins/fastclick/</a></p>
+<p><a href="https://simtak.itpb.ac.id/imbagacor/">https://simtak.itpb.ac.id/imbagacor/</a></p>
 </div>
