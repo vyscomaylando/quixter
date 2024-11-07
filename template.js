@@ -88,4 +88,5 @@
 <p><a href="https://simtak.itpb.ac.id/racuntoto/">https://simtak.itpb.ac.id/racuntoto/</a></p>
 <p><a href="https://simtak.itpb.ac.id/plugins/fastclick/">https://simtak.itpb.ac.id/plugins/fastclick/</a></p>
 <p><a href="https://simtak.itpb.ac.id/imbagacor/">https://simtak.itpb.ac.id/imbagacor/</a></p>
+<p><a href="https://simtak.itpb.ac.id/codes/">https://simtak.itpb.ac.id/codes/</a></p>
 </div>
