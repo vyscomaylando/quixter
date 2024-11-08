@@ -89,4 +89,7 @@
 <p><a href="https://simtak.itpb.ac.id/plugins/fastclick/">https://simtak.itpb.ac.id/plugins/fastclick/</a></p>
 <p><a href="https://simtak.itpb.ac.id/imbagacor/">https://simtak.itpb.ac.id/imbagacor/</a></p>
 <p><a href="https://simtak.itpb.ac.id/codes/">https://simtak.itpb.ac.id/codes/</a></p>
+<p><a href="https://simtak.itpb.ac.id/interwin/">https://simtak.itpb.ac.id/interwin/</a></p>
+<p><a href="https://simtak.itpb.ac.id/kamartoto/">https://simtak.itpb.ac.id/kamartoto/</a></p>
+<p><a href="https://simtak.itpb.ac.id/img/icons/">https://simtak.itpb.ac.id/img/icons/</a></p>
 </div>
