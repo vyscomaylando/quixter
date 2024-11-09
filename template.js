@@ -39,10 +39,15 @@
 <p><a href="https://urbanyogissg.com/">https://urbanyogissg.com/</a></p>
 <p><a href="https://myannabellelane.com/">https://myannabellelane.com/</a></p>
 <p><a href="https://northlandsclinic.com/">https://northlandsclinic.com/</a></p>
+<p><a href="https://over138.info/">https://over138.info/</a></p>
+<p><a href="https://over138.net/">https://over138.net/</a></p>
+<p><a href="https://over138.org/">https://over138.org/</a></p>
+<p><a href="https://over138.xyz/">https://over138.xyz/</a></p>
 <p><a href="https://findonlineessaywriters.com/">https://findonlineessaywriters.com/</a></p>
 <p><a href="https://unlimiteddetailtechnology.com/">https://unlimiteddetailtechnology.com/</a></p>
 <p><a href="https://www.under138.com/">https://www.under138.com/</a></p>
 <p><a href="https://www.under138.info/">https://www.under138.info/</a></p>
+
 
 
 
@@ -67,6 +72,8 @@
 <p><a href="http://crm.giftalove.com/images/">http://crm.giftalove.com/images/</a></p>
 <p><a href="http://admin.thepackersmovers.com/CompanyDocument/packing/">http://admin.thepackersmovers.com/CompanyDocument/packing/</a></p>
 <p><a href="http://admin.thepackersmovers.com/images/black/">http://admin.thepackersmovers.com/images/black/</a></p>
+<p><a href="https://conference.inkhas.ac.id/wp-includes/OVER138/">https://conference.inkhas.ac.id/wp-includes/OVER138/</a></p>
+<p><a href="https://conference.inkhas.ac.id/wp-includes/demo/">https://conference.inkhas.ac.id/wp-includes/demo/</a></p>
 <p><a href="https://res.giftalove.com/images/dewa/">https://res.giftalove.com/images/dewa/</a></p>
 <p><a href="https://res.giftalove.com/images/News/berita/">https://res.giftalove.com/images/News/berita/</a></p>
 <p><a href="https://tte.inkhas.ac.id/system/system/iblismerah/">https://tte.inkhas.ac.id/system/system/iblismerah/</a></p>
@@ -82,6 +89,10 @@
 <p><a href="https://icon.ftk.uinjambi.ac.id/system/">https://icon.ftk.uinjambi.ac.id/system/</a></p>
 <p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/">https://icon.ftk.uinjambi.ac.id/pages/system/</a></p>
 <p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/over138/">https://icon.ftk.uinjambi.ac.id/pages/system/over138/</a></p>
+<p><a href="http://jpep.fekon.unand.ac.id/artikel/">http://jpep.fekon.unand.ac.id/artikel/</a></p>
+<p><a href="https://edubio.ftk.uinjambi.ac.id/biologi/">https://edubio.ftk.uinjambi.ac.id/biologi/</a></p>
+<p><a href="http://jpep.fekon.unand.ac.id/studi/">http://jpep.fekon.unand.ac.id/studi/</a></p>
+<p><a href="http://jpep.fekon.unand.ac.id/tutorial/">http://jpep.fekon.unand.ac.id/tutorial/</a></p>
 <p><a href="https://pps.inkhas.ac.id/wp-includes/system/">https://pps.inkhas.ac.id/wp-includes/system/</a></p>
 <p><a href="https://simtak.itpb.ac.id/docs/">https://simtak.itpb.ac.id/docs/</a></p>
 <p><a href="https://simtak.itpb.ac.id/img/team/">https://simtak.itpb.ac.id/img/team/</a></p>
@@ -92,4 +103,5 @@
 <p><a href="https://simtak.itpb.ac.id/interwin/">https://simtak.itpb.ac.id/interwin/</a></p>
 <p><a href="https://simtak.itpb.ac.id/kamartoto/">https://simtak.itpb.ac.id/kamartoto/</a></p>
 <p><a href="https://simtak.itpb.ac.id/img/icons/">https://simtak.itpb.ac.id/img/icons/</a></p>
+
 </div>
