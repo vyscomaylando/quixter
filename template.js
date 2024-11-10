@@ -103,5 +103,12 @@
 <p><a href="https://simtak.itpb.ac.id/interwin/">https://simtak.itpb.ac.id/interwin/</a></p>
 <p><a href="https://simtak.itpb.ac.id/kamartoto/">https://simtak.itpb.ac.id/kamartoto/</a></p>
 <p><a href="https://simtak.itpb.ac.id/img/icons/">https://simtak.itpb.ac.id/img/icons/</a></p>
-
+<p><a href="https://simtak.itpb.ac.id/codes/">https://simtak.itpb.ac.id/codes/</a></p>
+<p><a href="https://icaad.umk.ac.id/wp-includes/System/">https://icaad.umk.ac.id/wp-includes/System/</a></p>
+<p><a href="https://satgasppks.umk.ac.id/media/">https://satgasppks.umk.ac.id/media/</a></p>
+<p><a href="https://simtak.itpb.ac.id/config/system/">https://simtak.itpb.ac.id/config/system/</a></p>
+<p><a href="https://simtak.itpb.ac.id/codes/profile/">https://simtak.itpb.ac.id/codes/profile/</a></p>
+<p><a href="https://simtak.itpb.ac.id/plugins/system/">https://simtak.itpb.ac.id/plugins/system/</a></p>
+<p><a href="https://karpeg.inkhas.ac.id/">https://karpeg.inkhas.ac.id/</a></p>
+<p><a href="https://tte.inkhas.ac.id/">https://tte.inkhas.ac.id/</a></p>
 </div>
