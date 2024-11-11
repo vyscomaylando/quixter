@@ -111,4 +111,7 @@
 <p><a href="https://simtak.itpb.ac.id/plugins/system/">https://simtak.itpb.ac.id/plugins/system/</a></p>
 <p><a href="https://karpeg.inkhas.ac.id/">https://karpeg.inkhas.ac.id/</a></p>
 <p><a href="https://tte.inkhas.ac.id/">https://tte.inkhas.ac.id/</a></p>
+<p><a href="https://esurat.inkhas.ac.id/">https://esurat.inkhas.ac.id/</a></p>
+<p><a href="https://cek-judul.inkhas.ac.id/">https://cek-judul.inkhas.ac.id/</a></p>
+<p><a href="https://cek-judul.inkhas.ac.id/assets/">https://cek-judul.inkhas.ac.id/assets/</a></p>
 </div>
