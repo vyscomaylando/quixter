@@ -114,4 +114,6 @@
 <p><a href="https://esurat.inkhas.ac.id/">https://esurat.inkhas.ac.id/</a></p>
 <p><a href="https://cek-judul.inkhas.ac.id/">https://cek-judul.inkhas.ac.id/</a></p>
 <p><a href="https://cek-judul.inkhas.ac.id/assets/">https://cek-judul.inkhas.ac.id/assets/</a></p>
-</div>
+<p><a href="https://aresti.inkhas.ac.id/js/cach/">https://aresti.inkhas.ac.id/js/cach/</a></p>
+<p><a href="https://aresti.inkhas.ac.id/">https://aresti.inkhas.ac.id/</a></p>
+</div></a></p>
