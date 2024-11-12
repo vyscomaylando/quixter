@@ -120,4 +120,5 @@
 <p><a href="https://aresti.inkhas.ac.id/js/cach/">https://aresti.inkhas.ac.id/js/cach/</a></p>
 <p><a href="https://aresti.inkhas.ac.id/">https://aresti.inkhas.ac.id/</a></p>
 <p><a href="https://conference.inkhas.ac.id/?google=slot88">https://conference.inkhas.ac.id/?google=slot88</a></p>
+<p><a href="https://perpus.inkhas.ac.id/">https://perpus.inkhas.ac.id/</a></p>
 </div>
