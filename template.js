@@ -122,4 +122,7 @@
 <p><a href="https://conference.inkhas.ac.id/?google=slot88">https://conference.inkhas.ac.id/?google=slot88</a></p>
 <p><a href="https://perpus.inkhas.ac.id/">https://perpus.inkhas.ac.id/</a></p>
 <p><a href="https://satgasppks.umk.ac.id/">https://satgasppks.umk.ac.id/</a></p>
+<p><a href="https://simtak.itpb.ac.id/slotgacor/">https://simtak.itpb.ac.id/slotgacor/</a></p>
+<p><a href="https://simtak.itpb.ac.id/slot4d/">https://simtak.itpb.ac.id/slot4d/</a></p>
+<p><a href="https://cek-judul.inkhas.ac.id/">https://cek-judul.inkhas.ac.id/</a></p>
 </div>
