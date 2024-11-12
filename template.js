@@ -121,4 +121,5 @@
 <p><a href="https://aresti.inkhas.ac.id/">https://aresti.inkhas.ac.id/</a></p>
 <p><a href="https://conference.inkhas.ac.id/?google=slot88">https://conference.inkhas.ac.id/?google=slot88</a></p>
 <p><a href="https://perpus.inkhas.ac.id/">https://perpus.inkhas.ac.id/</a></p>
+<p><a href="https://satgasppks.umk.ac.id/">https://satgasppks.umk.ac.id/</a></p>
 </div>
