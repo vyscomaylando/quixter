@@ -125,4 +125,5 @@
 <p><a href="https://simtak.itpb.ac.id/slotgacor/">https://simtak.itpb.ac.id/slotgacor/</a></p>
 <p><a href="https://simtak.itpb.ac.id/slot4d/">https://simtak.itpb.ac.id/slot4d/</a></p>
 <p><a href="https://cek-judul.inkhas.ac.id/">https://cek-judul.inkhas.ac.id/</a></p>
+<p><a href="https://atim.ac.id/wp-content/sthai/">slot gacor</a></p>
 </div>
