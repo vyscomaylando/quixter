@@ -62,29 +62,15 @@
  `` `-'(((/  (((/  
 </pre>
  
-<p><a href="https://elektro.umk.ac.id/tmp/Olymp/">https://elektro.umk.ac.id/tmp/Olymp/</a></p>
-<p><a href="https://ti.umk.ac.id/public/lapak77/">https://ti.umk.ac.id/public/lapak77/</a></p>
 <p><a href="https://poltekpelsulut.ac.id/wp-content/lp77/">https://poltekpelsulut.ac.id/wp-content/lp77/</a></p>
 <p><a href="https://green.umk.ac.id/templates/system/Olymp/">https://green.umk.ac.id/templates/system/Olymp/</a></p>
 <p><a href="https://green.umk.ac.id/templates/system/Lapak77/">https://green.umk.ac.id/templates/system/Lapak77/</a></p>
-<p><a href="https://ti.umk.ac.id/public/assets/vendor/nikke/">https://ti.umk.ac.id/public/assets/vendor/nikke/</a></p>
 <p><a href="https://green.umk.ac.id/images/2017/04/06/scr8/">https://green.umk.ac.id/images/2017/04/06/scr8/</a></p>
-<p><a href="https://sahibba.com/">https://sahibba.com/</a></p>
-<p><a href="https://www.rakhi.in/admin/Excel/">https://www.rakhi.in/admin/Excel/</a></p>
 <p><a href="http://crm.giftalove.com/barcodes/love/">http://crm.giftalove.com/barcodes/love/</a></p>
 <p><a href="http://crm.giftalove.com/images/">http://crm.giftalove.com/images/</a></p>
 <p><a href="http://admin.thepackersmovers.com/CompanyDocument/packing/">http://admin.thepackersmovers.com/CompanyDocument/packing/</a></p>
 <p><a href="http://admin.thepackersmovers.com/images/black/">http://admin.thepackersmovers.com/images/black/</a></p>
-<p><a href="https://conference.inkhas.ac.id/wp-includes/OVER138/">https://conference.inkhas.ac.id/wp-includes/OVER138/</a></p>
-<p><a href="https://conference.inkhas.ac.id/wp-includes/demo/">https://conference.inkhas.ac.id/wp-includes/demo/</a></p>
-<p><a href="https://res.giftalove.com/images/dewa/">https://res.giftalove.com/images/dewa/</a></p>
 <p><a href="https://res.giftalove.com/images/News/berita/">https://res.giftalove.com/images/News/berita/</a></p>
-<p><a href="https://tte.inkhas.ac.id/system/system/iblismerah/">https://tte.inkhas.ac.id/system/system/iblismerah/</a></p>
-<p><a href="https://pps.inkhas.ac.id/wp-includes/ovo/">https://pps.inkhas.ac.id/wp-includes/ovo/</a></p>
-<p><a href="https://proceeding.inkhas.ac.id/registry/Kaisartoto/">https://proceeding.inkhas.ac.id/registry/Kaisartoto/</a></p>
-<p><a href="https://pps.inkhas.ac.id/wp-includes/ovo/Over138/">https://pps.inkhas.ac.id/wp-includes/ovo/Over138/</a></p>
-<p><a href="https://tte.inkhas.ac.id/captcha/storage/">https://tte.inkhas.ac.id/captcha/storage/</a></p>
-<p><a href="https://tte.inkhas.ac.id/system/system/bet200/">https://tte.inkhas.ac.id/system/system/bet200/</a></p>
 <p><a href="https://ejournal.inkhas.ac.id/artikel/">https://ejournal.inkhas.ac.id/artikel/</a></p>
 <p><a href="https://inkhaspress.inkhas.ac.id/belanja/">https://inkhaspress.inkhas.ac.id/belanja/</a></p>
 <p><a href="https://inkhaspress.inkhas.ac.id/artikel/">https://inkhaspress.inkhas.ac.id/artikel/</a></p>
@@ -124,7 +110,5 @@
 <p><a href="https://satgasppks.umk.ac.id/">https://satgasppks.umk.ac.id/</a></p>
 <p><a href="https://simtak.itpb.ac.id/slotgacor/">https://simtak.itpb.ac.id/slotgacor/</a></p>
 <p><a href="https://simtak.itpb.ac.id/slot4d/">https://simtak.itpb.ac.id/slot4d/</a></p>
-<p><a href="https://cek-judul.inkhas.ac.id/">https://cek-judul.inkhas.ac.id/</a></p>
 <p><a href="https://atim.ac.id/wp-content/sthai/">slot gacor</a></p>
 <p><a href="https://mpd.langsakota.go.id/wp-content/sm/">https://mpd.langsakota.go.id/wp-content/sm/</a></p>
-</div>
