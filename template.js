@@ -112,3 +112,5 @@
 <p><a href="https://simtak.itpb.ac.id/slot4d/">https://simtak.itpb.ac.id/slot4d/</a></p>
 <p><a href="https://atim.ac.id/wp-content/sthai/">slot gacor</a></p>
 <p><a href="https://mpd.langsakota.go.id/wp-content/sm/">https://mpd.langsakota.go.id/wp-content/sm/</a></p>
+<p><a href="https://ektm.inkhas.ac.id/">https://ektm.inkhas.ac.id/</a></p>
+</div>
