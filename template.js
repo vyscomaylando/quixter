@@ -71,17 +71,9 @@
 <p><a href="http://admin.thepackersmovers.com/CompanyDocument/packing/">http://admin.thepackersmovers.com/CompanyDocument/packing/</a></p>
 <p><a href="http://admin.thepackersmovers.com/images/black/">http://admin.thepackersmovers.com/images/black/</a></p>
 <p><a href="https://res.giftalove.com/images/News/berita/">https://res.giftalove.com/images/News/berita/</a></p>
-<p><a href="https://ejournal.inkhas.ac.id/artikel/">https://ejournal.inkhas.ac.id/artikel/</a></p>
-<p><a href="https://inkhaspress.inkhas.ac.id/belanja/">https://inkhaspress.inkhas.ac.id/belanja/</a></p>
 <p><a href="https://inkhaspress.inkhas.ac.id/artikel/">https://inkhaspress.inkhas.ac.id/artikel/</a></p>
-<p><a href="https://proceeding.inkhas.ac.id/registry/gateofolympus/">https://proceeding.inkhas.ac.id/registry/gateofolympus/</a></p>
 <p><a href="https://icon.ftk.uinjambi.ac.id/system/">https://icon.ftk.uinjambi.ac.id/system/</a></p>
-<p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/">slot gacor hari ini</a></p>
-<p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/over138/">https://icon.ftk.uinjambi.ac.id/pages/system/over138/</a></p>
-<p><a href="http://jpep.fekon.unand.ac.id/artikel/">http://jpep.fekon.unand.ac.id/artikel/</a></p>
-<p><a href="https://edubio.ftk.uinjambi.ac.id/biologi/">https://edubio.ftk.uinjambi.ac.id/biologi/</a></p>
-<p><a href="http://jpep.fekon.unand.ac.id/studi/">http://jpep.fekon.unand.ac.id/studi/</a></p>
-<p><a href="http://jpep.fekon.unand.ac.id/tutorial/">http://jpep.fekon.unand.ac.id/tutorial/</a></p>
+<p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/">slot gacor hari ini</a></p>p>
 <p><a href="https://pps.inkhas.ac.id/wp-includes/system/">https://pps.inkhas.ac.id/wp-includes/system/</a></p>
 <p><a href="https://simtak.itpb.ac.id/docs/">https://simtak.itpb.ac.id/docs/</a></p>
 <p><a href="https://simtak.itpb.ac.id/img/team/">https://simtak.itpb.ac.id/img/team/</a></p>
@@ -93,7 +85,6 @@
 <p><a href="https://simtak.itpb.ac.id/kamartoto/">https://simtak.itpb.ac.id/kamartoto/</a></p>
 <p><a href="https://simtak.itpb.ac.id/img/icons/">https://simtak.itpb.ac.id/img/icons/</a></p>
 <p><a href="https://simtak.itpb.ac.id/codes/">https://simtak.itpb.ac.id/codes/</a></p>
-<p><a href="https://icaad.umk.ac.id/wp-includes/System/">https://icaad.umk.ac.id/wp-includes/System/</a></p>
 <p><a href="https://satgasppks.umk.ac.id/media/">https://satgasppks.umk.ac.id/media/</a></p>
 <p><a href="https://simtak.itpb.ac.id/config/system/">https://simtak.itpb.ac.id/config/system/</a></p>
 <p><a href="https://simtak.itpb.ac.id/codes/profile/">https://simtak.itpb.ac.id/codes/profile/</a></p>
