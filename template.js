@@ -104,4 +104,5 @@
 <p><a href="https://atim.ac.id/wp-content/sthai/">slot gacor</a></p>
 <p><a href="https://mpd.langsakota.go.id/wp-content/sm/">https://mpd.langsakota.go.id/wp-content/sm/</a></p>
 <p><a href="https://ektm.inkhas.ac.id/">https://ektm.inkhas.ac.id/</a></p>
+<p><a href="https://pertanian.umk.ac.id/news/index.html">https://pertanian.umk.ac.id/news/index.html</a></p>
 </div>
