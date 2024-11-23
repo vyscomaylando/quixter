@@ -75,4 +75,7 @@
 <p><a href="https://simtak.itpb.ac.id/codes/">https://simtak.itpb.ac.id/codes/</a></p>
 <p><a href="https://simtak.itpb.ac.id/config/system/">https://simtak.itpb.ac.id/config/system/</a></p>
 <p><a href="https://mpd.langsakota.go.id/wp-content/sm/">https://mpd.langsakota.go.id/wp-content/sm/</a></p>
+<p><a href="https://stieprasetiyamandiri.ac.id/lapak77-slot-gacor-thailand-2025/">https://stieprasetiyamandiri.ac.id/lapak77-slot-gacor-thailand-2025/</a></p>
+<p><a href="https://stieprasetiyamandiri.ac.id/lapak77-slot-gacor-thailand-2025/lapak77-slot-gacor-thailand-2025.html">https://stieprasetiyamandiri.ac.id/lapak77-slot-gacor-thailand-2025/lapak77-slot-gacor-thailand-2025.html</a></p>
+<p><a href="https://stieprasetiyamandiri.ac.id/sdana/">https://stieprasetiyamandiri.ac.id/sdana/</a></p>
 </div>
