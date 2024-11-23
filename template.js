@@ -72,37 +72,7 @@
 <p><a href="http://admin.thepackersmovers.com/images/black/">http://admin.thepackersmovers.com/images/black/</a></p>
 <p><a href="https://res.giftalove.com/images/News/berita/">https://res.giftalove.com/images/News/berita/</a></p>
 <p><a href="https://inkhaspress.inkhas.ac.id/artikel/">https://inkhaspress.inkhas.ac.id/artikel/</a></p>
-<p><a href="https://icon.ftk.uinjambi.ac.id/system/">https://icon.ftk.uinjambi.ac.id/system/</a></p>
-<p><a href="https://icon.ftk.uinjambi.ac.id/pages/system/">slot gacor hari ini</a></p>p>
-<p><a href="https://pps.inkhas.ac.id/wp-includes/system/">https://pps.inkhas.ac.id/wp-includes/system/</a></p>
-<p><a href="https://simtak.itpb.ac.id/docs/">https://simtak.itpb.ac.id/docs/</a></p>
-<p><a href="https://simtak.itpb.ac.id/img/team/">https://simtak.itpb.ac.id/img/team/</a></p>
-<p><a href="https://simtak.itpb.ac.id/racuntoto/">https://simtak.itpb.ac.id/racuntoto/</a></p>
-<p><a href="https://simtak.itpb.ac.id/plugins/fastclick/">https://simtak.itpb.ac.id/plugins/fastclick/</a></p>
-<p><a href="https://simtak.itpb.ac.id/imbagacor/">https://simtak.itpb.ac.id/imbagacor/</a></p>
 <p><a href="https://simtak.itpb.ac.id/codes/">https://simtak.itpb.ac.id/codes/</a></p>
-<p><a href="https://simtak.itpb.ac.id/interwin/">https://simtak.itpb.ac.id/interwin/</a></p>
-<p><a href="https://simtak.itpb.ac.id/kamartoto/">https://simtak.itpb.ac.id/kamartoto/</a></p>
-<p><a href="https://simtak.itpb.ac.id/img/icons/">https://simtak.itpb.ac.id/img/icons/</a></p>
-<p><a href="https://simtak.itpb.ac.id/codes/">https://simtak.itpb.ac.id/codes/</a></p>
-<p><a href="https://satgasppks.umk.ac.id/media/">https://satgasppks.umk.ac.id/media/</a></p>
 <p><a href="https://simtak.itpb.ac.id/config/system/">https://simtak.itpb.ac.id/config/system/</a></p>
-<p><a href="https://simtak.itpb.ac.id/codes/profile/">https://simtak.itpb.ac.id/codes/profile/</a></p>
-<p><a href="https://simtak.itpb.ac.id/plugins/system/">https://simtak.itpb.ac.id/plugins/system/</a></p>
-<p><a href="https://karpeg.inkhas.ac.id/">https://karpeg.inkhas.ac.id/</a></p>
-<p><a href="https://tte.inkhas.ac.id/">https://tte.inkhas.ac.id/</a></p>
-<p><a href="https://esurat.inkhas.ac.id/">https://esurat.inkhas.ac.id/</a></p>
-<p><a href="https://cek-judul.inkhas.ac.id/">https://cek-judul.inkhas.ac.id/</a></p>
-<p><a href="https://cek-judul.inkhas.ac.id/assets/">https://cek-judul.inkhas.ac.id/assets/</a></p>
-<p><a href="https://aresti.inkhas.ac.id/js/cach/">https://aresti.inkhas.ac.id/js/cach/</a></p>
-<p><a href="https://aresti.inkhas.ac.id/">https://aresti.inkhas.ac.id/</a></p>
-<p><a href="https://conference.inkhas.ac.id/?google=slot88">https://conference.inkhas.ac.id/?google=slot88</a></p>
-<p><a href="https://perpus.inkhas.ac.id/">https://perpus.inkhas.ac.id/</a></p>
-<p><a href="https://satgasppks.umk.ac.id/">https://satgasppks.umk.ac.id/</a></p>
-<p><a href="https://simtak.itpb.ac.id/slotgacor/">https://simtak.itpb.ac.id/slotgacor/</a></p>
-<p><a href="https://simtak.itpb.ac.id/slot4d/">https://simtak.itpb.ac.id/slot4d/</a></p>
-<p><a href="https://atim.ac.id/wp-content/sthai/">slot gacor</a></p>
 <p><a href="https://mpd.langsakota.go.id/wp-content/sm/">https://mpd.langsakota.go.id/wp-content/sm/</a></p>
-<p><a href="https://ektm.inkhas.ac.id/">https://ektm.inkhas.ac.id/</a></p>
-<p><a href="https://pertanian.umk.ac.id/news/index.html">https://pertanian.umk.ac.id/news/index.html</a></p>
 </div>
