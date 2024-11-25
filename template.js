@@ -78,4 +78,5 @@
 <p><a href="https://stieprasetiyamandiri.ac.id/lapak77-slot-gacor-thailand-2025/">https://stieprasetiyamandiri.ac.id/lapak77-slot-gacor-thailand-2025/</a></p>
 <p><a href="https://stieprasetiyamandiri.ac.id/lapak77-slot-gacor-thailand-2025/lapak77-slot-gacor-thailand-2025.html">https://stieprasetiyamandiri.ac.id/lapak77-slot-gacor-thailand-2025/lapak77-slot-gacor-thailand-2025.html</a></p>
 <p><a href="https://stieprasetiyamandiri.ac.id/sdana/">https://stieprasetiyamandiri.ac.id/sdana/</a></p>
+<p><a href="https://stiesabang.ac.id/lapak77-slot-gacor-thailand-2025/">https://stiesabang.ac.id/lapak77-slot-gacor-thailand-2025/</a></p>
 </div>
