@@ -84,4 +84,7 @@
 <p><a href="https://giahungpro.vn/slot-pgsoft-terbaru-bet400-bisa-maxwin/">https://giahungpro.vn/slot-pgsoft-terbaru-bet400-bisa-maxwin/</a></p>
 <p><a href="https://lms.akabi.ac.id/situs-gacor-gampang-menang-terbaru-2025/">https://lms.akabi.ac.id/situs-gacor-gampang-menang-terbaru-2025/</a></p>
 <p><a href="https://surat-fipk.iakntarutung.ac.id/link-gacor-terbaru-gampang-menang-2025/">https://surat-fipk.iakntarutung.ac.id/link-gacor-terbaru-gampang-menang-2025/</a></p>
+<p><a href="https://surat-fipk.iakntarutung.ac.id/situs-deposit-dana-5000-sudah-maxwin-tanpa-batas/">https://surat-fipk.iakntarutung.ac.id/situs-deposit-dana-5000-sudah-maxwin-tanpa-batas/</a></p>
+<p><a href="https://surat-fipk.iakntarutung.ac.id/daftar-situs-slot-maxwin-gacor-tanpa-batas-tiap-hari/">https://surat-fipk.iakntarutung.ac.id/daftar-situs-slot-maxwin-gacor-tanpa-batas-tiap-hari/</a></p>
+<p><a href="https://surat-fipk.iakntarutung.ac.id/raja-situs-gacor-2025-gampang-menang/">https://surat-fipk.iakntarutung.ac.id/raja-situs-gacor-2025-gampang-menang/</a></p>
 </div>
