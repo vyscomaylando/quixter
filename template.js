@@ -82,4 +82,5 @@
 <p><a href="https://stiesabang.ac.id/under138-slot-gates-of-olympus-gacor-terbaru/">https://stiesabang.ac.id/under138-slot-gates-of-olympus-gacor-terbaru/</a></p>
 <p><a href="https://siakad.itpa.ac.id/system/lapak77pro/">https://siakad.itpa.ac.id/system/lapak77pro/</a></p>
 <p><a href="https://giahungpro.vn/slot-pgsoft-terbaru-bet400-bisa-maxwin/">https://giahungpro.vn/slot-pgsoft-terbaru-bet400-bisa-maxwin/</a></p>
+<p><a href="https://lms.akabi.ac.id/situs-gacor-gampang-menang-terbaru-2025/">https://lms.akabi.ac.id/situs-gacor-gampang-menang-terbaru-2025/</a></p>
 </div>
