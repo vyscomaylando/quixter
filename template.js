@@ -87,4 +87,6 @@
 <p><a href="https://surat-fipk.iakntarutung.ac.id/situs-deposit-dana-5000-sudah-maxwin-tanpa-batas/">https://surat-fipk.iakntarutung.ac.id/situs-deposit-dana-5000-sudah-maxwin-tanpa-batas/</a></p>
 <p><a href="https://surat-fipk.iakntarutung.ac.id/daftar-situs-slot-maxwin-gacor-tanpa-batas-tiap-hari/">https://surat-fipk.iakntarutung.ac.id/daftar-situs-slot-maxwin-gacor-tanpa-batas-tiap-hari/</a></p>
 <p><a href="https://surat-fipk.iakntarutung.ac.id/raja-situs-gacor-2025-gampang-menang/">https://surat-fipk.iakntarutung.ac.id/raja-situs-gacor-2025-gampang-menang/</a></p>
+<p><a href="https://surat-fipk.iakntarutung.ac.id/link-daftar-slot-online-gacor-2025-sever-thailand/">https://surat-fipk.iakntarutung.ac.id/link-daftar-slot-online-gacor-2025-sever-thailand/</a></p>
+<p><a href="https://surat-fipk.iakntarutung.ac.id/slot-online-2025-gacor-hari-ini/">https://surat-fipk.iakntarutung.ac.id/slot-online-2025-gacor-hari-ini/</a></p>
 </div>
