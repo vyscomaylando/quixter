@@ -92,4 +92,5 @@
 <p><a href="https://epustaka.stiesabang.ac.id/sgacor/">https://epustaka.stiesabang.ac.id/sgacor/</a></p>
 <p><a href="https://epustaka.stiesabang.ac.id/smaxwin/">https://epustaka.stiesabang.ac.id/smaxwin/</a></p>
 <p><a href="https://pa-sidenrengrappang.go.id/">https://pa-sidenrengrappang.go.id/</a></p>
+<p><a href="https://epustaka.stiesabang.ac.id/hariini/">https://epustaka.stiesabang.ac.id/hariini/</a></p>
 </div>
