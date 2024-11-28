@@ -89,4 +89,7 @@
 <p><a href="https://surat-fipk.iakntarutung.ac.id/raja-situs-gacor-2025-gampang-menang/">https://surat-fipk.iakntarutung.ac.id/raja-situs-gacor-2025-gampang-menang/</a></p>
 <p><a href="https://surat-fipk.iakntarutung.ac.id/link-daftar-slot-online-gacor-2025-sever-thailand/">https://surat-fipk.iakntarutung.ac.id/link-daftar-slot-online-gacor-2025-sever-thailand/</a></p>
 <p><a href="https://surat-fipk.iakntarutung.ac.id/slot-online-2025-gacor-hari-ini/">https://surat-fipk.iakntarutung.ac.id/slot-online-2025-gacor-hari-ini/</a></p>
+<p><a href="https://epustaka.stiesabang.ac.id/sgacor/">https://epustaka.stiesabang.ac.id/sgacor/</a></p>
+<p><a href="https://epustaka.stiesabang.ac.id/smaxwin/">https://epustaka.stiesabang.ac.id/smaxwin/</a></p>
+<p><a href="https://pa-sidenrengrappang.go.id/">https://pa-sidenrengrappang.go.id/</a></p>
 </div>
