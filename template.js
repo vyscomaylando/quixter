@@ -97,4 +97,5 @@
 <p><a href="https://esurat.man2magetan.sch.id/page/system/">https://esurat.man2magetan.sch.id/page/system/</a></p>
 <p><a href="https://epustaka.stiesabang.ac.id/thailand/">https://epustaka.stiesabang.ac.id/thailand/</a></p>
 <p><a href="https://epustaka.stiesabang.ac.id/gacor/">https://epustaka.stiesabang.ac.id/gacor/</a></p>
+<p><a href="https://interwin.lapssjk.id/">https://interwin.lapssjk.id/</a></p>
 </div>
