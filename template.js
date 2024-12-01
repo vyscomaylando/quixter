@@ -98,4 +98,5 @@
 <p><a href="https://epustaka.stiesabang.ac.id/thailand/">https://epustaka.stiesabang.ac.id/thailand/</a></p>
 <p><a href="https://epustaka.stiesabang.ac.id/gacor/">https://epustaka.stiesabang.ac.id/gacor/</a></p>
 <p><a href="https://interwin.lapssjk.id/">https://interwin.lapssjk.id/</a></p>
+<p><a href="https://prokopim.setda.langsakota.go.id/app/sthai/">https://prokopim.setda.langsakota.go.id/app/sthai/</a></p>
 </div>
