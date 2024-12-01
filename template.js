@@ -100,4 +100,8 @@
 <p><a href="https://interwin.lapssjk.id/">https://interwin.lapssjk.id/</a></p>
 <p><a href="https://prokopim.setda.langsakota.go.id/app/sthai/">https://prokopim.setda.langsakota.go.id/app/sthai/</a></p>
 <p><a href="https://prokopim.setda.langsakota.go.id/app/shoki/">https://prokopim.setda.langsakota.go.id/app/shoki/</a></p>
+<p><a href="https://prokopim.setda.langsakota.go.id/public/system/">https://prokopim.setda.langsakota.go.id/public/system/</a></p>
+<p><a href="https://prokopim.setda.langsakota.go.id/app/slot4d/index.php">https://prokopim.setda.langsakota.go.id/app/slot4d/index.php</a></p>
+<p><a href="https://prokopim.setda.langsakota.go.id/app/maxwin/index.php">https://prokopim.setda.langsakota.go.id/app/maxwin/index.php</a></p>
+<p><a href="https://prokopim.setda.langsakota.go.id/app/online/index.php">https://prokopim.setda.langsakota.go.id/app/online/index.php</a></p>
 </div>
