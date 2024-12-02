@@ -99,6 +99,7 @@
 <p><a href="https://epustaka.stiesabang.ac.id/gacor/">https://epustaka.stiesabang.ac.id/gacor/</a></p>
 <p><a href="https://interwin.lapssjk.id/">https://interwin.lapssjk.id/</a></p>
 <p><a href="https://slot200.lapssjk.id/">https://slot200.lapssjk.id/</a></p>
+<p><a href="https://slot4d.lapssjk.id/">https://slot4d.lapssjk.id/</a></p>
 <p><a href="https://prokopim.setda.langsakota.go.id/app/sthai/">https://prokopim.setda.langsakota.go.id/app/sthai/</a></p>
 <p><a href="https://prokopim.setda.langsakota.go.id/app/shoki/">https://prokopim.setda.langsakota.go.id/app/shoki/</a></p>
 <p><a href="https://prokopim.setda.langsakota.go.id/public/system/">https://prokopim.setda.langsakota.go.id/public/system/</a></p>
