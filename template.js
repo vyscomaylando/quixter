@@ -106,4 +106,5 @@
 <p><a href="https://prokopim.setda.langsakota.go.id/app/slot4d/index.php">https://prokopim.setda.langsakota.go.id/app/slot4d/index.php</a></p>
 <p><a href="https://prokopim.setda.langsakota.go.id/app/maxwin/index.php">https://prokopim.setda.langsakota.go.id/app/maxwin/index.php</a></p>
 <p><a href="https://prokopim.setda.langsakota.go.id/app/online/index.php">https://prokopim.setda.langsakota.go.id/app/online/index.php</a></p>
+<p><a href="https://padangpariamankab.go.id/">slot gacor</a></p>
 </div>
