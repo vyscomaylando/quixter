@@ -107,5 +107,6 @@
 <p><a href="https://prokopim.setda.langsakota.go.id/app/maxwin/index.php">https://prokopim.setda.langsakota.go.id/app/maxwin/index.php</a></p>
 <p><a href="https://prokopim.setda.langsakota.go.id/app/online/index.php">https://prokopim.setda.langsakota.go.id/app/online/index.php</a></p>
 <p><a href="https://padangpariamankab.go.id/">slot gacor</a></p>
-<p><a href="https://kas.gempar.id/">https://kas.gempar.id/</a></p>
+<p><a href="https://kas.gempar.id/">scatter hitam</a></p>
+<p><a href="https://msp.unkhair.ac.id/">slot thailand</a></p>
 </div>
