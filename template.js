@@ -110,5 +110,7 @@
 <p><a href="https://kas.gempar.id/">scatter hitam</a></p>
 <p><a href="https://msp.unkhair.ac.id/">slot thailand</a></p>
 <p><a href="https://inisa.ac.id/">slot online</a></p>
-<p><a href="https://csc.ti.unjaya.ac.id/maxwin/">https://csc.ti.unjaya.ac.id/maxwin/</a></p>
+<p><a href="https://kas.gempar.id/">https://kas.gempar.id/</a></p>
+<p><a href="https://travia.co.id/system/scatter/">https://travia.co.id/system/scatter/</a></p>
+<p><a href="https://info.akabi.ac.id/wp-includes/system/"https://info.akabi.ac.id/wp-includes/system/</a></p>
 </div>
