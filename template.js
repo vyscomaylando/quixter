@@ -109,4 +109,5 @@
 <p><a href="https://padangpariamankab.go.id/">slot gacor</a></p>
 <p><a href="https://kas.gempar.id/">scatter hitam</a></p>
 <p><a href="https://msp.unkhair.ac.id/">slot thailand</a></p>
+<p><a href="https://inisa.ac.id/">slot online</a></p>
 </div>
