@@ -114,4 +114,5 @@
 <p><a href="https://travia.co.id/system/scatter/">https://travia.co.id/system/scatter/</a></p>
 <p><a href="https://info.akabi.ac.id/wp-includes/system/">https://info.akabi.ac.id/wp-includes/system/</a></p>
 <p><a href="https://www.dmxcargo.co.id/">https://www.dmxcargo.co.id/</a></p>
+<p><a href="http://bas.ui.ac.id/captcha/">http://bas.ui.ac.id/captcha/</a></p>
 </div>
