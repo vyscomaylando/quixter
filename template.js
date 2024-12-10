@@ -116,4 +116,6 @@
 <p><a href="https://www.dmxcargo.co.id/">https://www.dmxcargo.co.id/</a></p>
 <p><a href="http://bas.ui.ac.id/captcha/">http://bas.ui.ac.id/captcha/</a></p>
 <p><a href="http://bas.ui.ac.id/file/sonline/">http://bas.ui.ac.id/file/sonline/</p></a>
+<p><a href="https://satgasppks.sibermu.ac.id/tmp/sonline/">https://satgasppks.sibermu.ac.id/tmp/sonline/</p></a>
+<p><a href="https://satgasppks.sibermu.ac.id/tmp/sgacor/">https://satgasppks.sibermu.ac.id/tmp/sgacor/</p></a>
 </div>
