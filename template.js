@@ -119,4 +119,5 @@
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sonline/">https://satgasppks.sibermu.ac.id/tmp/sonline/</a></p>
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sgacor/">https://satgasppks.sibermu.ac.id/tmp/sgacor/</a></p>
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sdana/">https://satgasppks.sibermu.ac.id/tmp/sdana/</a></p>
+<p><a href="https://satgasppks.sibermu.ac.id/tmp/shitam/">https://satgasppks.sibermu.ac.id/tmp/shitam/</a></p>
 </div>
