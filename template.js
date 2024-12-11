@@ -88,4 +88,6 @@
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sdemo/">https://satgasppks.sibermu.ac.id/tmp/sdemo/</a></p>
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sthai/">https://satgasppks.sibermu.ac.id/tmp/sthai/</a></p>
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sgaransi/">https://satgasppks.sibermu.ac.id/tmp/sgaransi/</a></p>
+<p><a href="https://ft.library.uinar.ac.id/lib/hariini/">https://ft.library.uinar.ac.id/lib/hariini/</a></p>
+<p><a href="https://ft.library.uinar.ac.id/lib/stoto/">https://ft.library.uinar.ac.id/lib/stoto/</a></p>
 </div>
