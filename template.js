@@ -87,4 +87,5 @@
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/shitam/">https://satgasppks.sibermu.ac.id/tmp/shitam/</a></p>
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sdemo/">https://satgasppks.sibermu.ac.id/tmp/sdemo/</a></p>
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sthai/">https://satgasppks.sibermu.ac.id/tmp/sthai/</a></p>
+<p><a href="https://satgasppks.sibermu.ac.id/tmp/sgaransi/">https://satgasppks.sibermu.ac.id/tmp/sgaransi/</a></p>
 </div>
