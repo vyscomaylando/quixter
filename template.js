@@ -88,6 +88,8 @@
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sdemo/">https://satgasppks.sibermu.ac.id/tmp/sdemo/</a></p>
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sthai/">https://satgasppks.sibermu.ac.id/tmp/sthai/</a></p>
 <p><a href="https://satgasppks.sibermu.ac.id/tmp/sgaransi/">https://satgasppks.sibermu.ac.id/tmp/sgaransi/</a></p>
-<p><a href="https://ft.library.uinar.ac.id/lib/hariini/">https://ft.library.uinar.ac.id/lib/hariini/</a></p>
-<p><a href="https://ft.library.uinar.ac.id/lib/stoto/">https://ft.library.uinar.ac.id/lib/stoto/</a></p>
+<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/sthai/">https://repository.poltekkes-tanjungpinang.ac.id/sthai/</a></p>
+<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/slot4d/">https://repository.poltekkes-tanjungpinang.ac.id/slot4d/</a></p>
+<p><a href="https://library.uinar.ac.id/wp-content/system/">https://library.uinar.ac.id/wp-content/system/</a></p>
+<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/">https://repository.poltekkes-tanjungpinang.ac.id/</a></p>
 </div>
