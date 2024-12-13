@@ -1,5 +1,5 @@
 <div style="width:1px;height:1px;overflow:hidden">
-<p><a href="https://lapak77s.pro/">https://lapak77s.pro/</a></p>
+<p><a href="https://www.weheartdiving.com/">lapak77</a></p>
 <p><a href="https://lapak77slot.com/">https://lapak77slot.com/</a></p>
 <p><a href="https://lapak77slot.org/">https://lapak77slot.org/</a></p>
 <p><a href="https://allwpzone.com/">https://allwpzone.com/</a></p>
