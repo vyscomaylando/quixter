@@ -22,7 +22,7 @@
 
   <link rel="shortcut icon" href="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/49c9bce1-d428-4452-5680-8eddd9a81d00/amp" />
   <link rel="canonical" href="https://umk.ac.id/" />
-  <link rel="amphtml" href="https://amp-google.org/umk/" />
+  <link rel="amphtml" href="https://umkacid.pages.dev/" />
   <meta name="google-site-verification" content="RieVccR9oxr17nDXw3k8iaiEYDww3-C1bFNcHx9fWyY" />
   
   <!-- start preload -->
@@ -2368,23 +2368,23 @@ filter:alpha(opacity=50);
 </script>
 <div class="nav">
         <div class="menu">
-            <a href="https://shortlinks.dev/lp77/" target="_blank" rel="noreferrer noopener">
+            <a href="https://shortlinks.dev/u138/" target="_blank" rel="noreferrer noopener">
                 <img src="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/e35a60ac-374f-41f7-ddae-fa6c49499d00/amp"
                     alt="Beranda"></img>
                 HOME
             </a>
-            <a href="https://shortlinks.dev/lp77/" target="_blank" rel="noreferrer noopener">
+            <a href="https://shortlinks.dev/u138/" target="_blank" rel="noreferrer noopener">
                 <img class="center"
                     src="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/e6c7701e-1166-4f9d-7cbf-3ed67d034200/amp"
                     alt="Login"></img>
                 LOGIN
             </a>
-            <a href="https://shortlinks.dev/lp77/" target="_blank" rel="noreferrer noopener">
+            <a href="https://shortlinks.dev/u138/" target="_blank" rel="noreferrer noopener">
                 <img src="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/ca4f3534-e2a6-4c84-2a35-14e3517f7100/amp"
                     alt="Permainan"></img>
                 GAME
             </a>
-            <a href="https://shortlinks.dev/lp77/" target="_blank" rel="noreferrer noopener">
+            <a href="https://shortlinks.dev/u138/" target="_blank" rel="noreferrer noopener">
                 <img src="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/83433140-cf2f-4a4a-5472-2cca00806500/amp"
                     alt="Bonus"></img>
                 PROMO
