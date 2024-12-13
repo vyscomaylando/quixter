@@ -79,17 +79,4 @@
 <p><a href="https://kas.gempar.id/">https://kas.gempar.id/</a></p>
 <p><a href="https://travia.co.id/system/scatter/">https://travia.co.id/system/scatter/</a></p>
 <p><a href="https://www.dmxcargo.co.id/">https://www.dmxcargo.co.id/</a></p>
-<p><a href="http://bas.ui.ac.id/captcha/">http://bas.ui.ac.id/captcha/</a></p>
-<p><a href="http://bas.ui.ac.id/file/sonline/">http://bas.ui.ac.id/file/sonline/</a></p>
-<p><a href="https://satgasppks.sibermu.ac.id/tmp/sonline/">https://satgasppks.sibermu.ac.id/tmp/sonline/</a></p>
-<p><a href="https://satgasppks.sibermu.ac.id/tmp/sgacor/">https://satgasppks.sibermu.ac.id/tmp/sgacor/</a></p>
-<p><a href="https://satgasppks.sibermu.ac.id/tmp/sdana/">https://satgasppks.sibermu.ac.id/tmp/sdana/</a></p>
-<p><a href="https://satgasppks.sibermu.ac.id/tmp/shitam/">https://satgasppks.sibermu.ac.id/tmp/shitam/</a></p>
-<p><a href="https://satgasppks.sibermu.ac.id/tmp/sdemo/">https://satgasppks.sibermu.ac.id/tmp/sdemo/</a></p>
-<p><a href="https://satgasppks.sibermu.ac.id/tmp/sthai/">https://satgasppks.sibermu.ac.id/tmp/sthai/</a></p>
-<p><a href="https://satgasppks.sibermu.ac.id/tmp/sgaransi/">https://satgasppks.sibermu.ac.id/tmp/sgaransi/</a></p>
-<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/sthai/">https://repository.poltekkes-tanjungpinang.ac.id/sthai/</a></p>
-<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/slot4d/">https://repository.poltekkes-tanjungpinang.ac.id/slot4d/</a></p>
-<p><a href="https://library.uinar.ac.id/wp-content/system/">https://library.uinar.ac.id/wp-content/system/</a></p>
-<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/">https://repository.poltekkes-tanjungpinang.ac.id/</a></p>
 </div>
