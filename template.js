@@ -80,4 +80,9 @@
 <p><a href="https://travia.co.id/system/scatter/">https://travia.co.id/system/scatter/</a></p>
 <p><a href="https://www.dmxcargo.co.id/">https://www.dmxcargo.co.id/</a></p>
 <p><a href="https://umk.ac.id/">slot gacor</a></p>
+<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/sbola/">https://repository.poltekkes-tanjungpinang.ac.id/sbola/</a></p>
+<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/swd/">https://repository.poltekkes-tanjungpinang.ac.id/swd/</a></p>
+<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/sthai/">https://repository.poltekkes-tanjungpinang.ac.id/sthai/</a></p>
+<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/slot4d/">https://repository.poltekkes-tanjungpinang.ac.id/slot4d/</a></p>
+<p><a href="https://library.uinar.ac.id/wp-content/system/">https://library.uinar.ac.id/wp-content/system/
 </div>
