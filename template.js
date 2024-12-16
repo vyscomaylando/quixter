@@ -70,15 +70,14 @@
 <p><a href="http://admin.thepackersmovers.com/CompanyDocument/packing/">http://admin.thepackersmovers.com/CompanyDocument/packing/</a></p>
 <p><a href="https://mpd.langsakota.go.id/wp-content/sm/">https://mpd.langsakota.go.id/wp-content/sm/</a></p>
 <p><a href="https://stieprasetiyamandiri.ac.id/sdana/">https://stieprasetiyamandiri.ac.id/sdana/</a></p>
+<p><a href="https://stieprasetiyamandiri.ac.id/wp-content/uploads/">https://stieprasetiyamandiri.ac.id/wp-content/uploads/</a></p>
 <p><a href="https://interwin.lapssjk.id/">https://interwin.lapssjk.id/</a></p>
 <p><a href="https://slot200.lapssjk.id/">https://slot200.lapssjk.id/</a></p>
 <p><a href="https://slot4d.lapssjk.id/">https://slot4d.lapssjk.id/</a></p>
 <p><a href="https://kas.gempar.id/">scatter hitam</a></p>
 <p><a href="https://msp.unkhair.ac.id/">slot thailand</a></p>
-<p><a href="https://inisa.ac.id/">slot online</a></p>
 <p><a href="https://kas.gempar.id/">https://kas.gempar.id/</a></p>
 <p><a href="https://travia.co.id/system/scatter/">https://travia.co.id/system/scatter/</a></p>
-<p><a href="https://www.dmxcargo.co.id/">https://www.dmxcargo.co.id/</a></p>
 <p><a href="https://umk.ac.id/">slot gacor</a></p>
 <p><a href="https://repository.poltekkes-tanjungpinang.ac.id/sbola/">https://repository.poltekkes-tanjungpinang.ac.id/sbola/</a></p>
 <p><a href="https://repository.poltekkes-tanjungpinang.ac.id/swd/">https://repository.poltekkes-tanjungpinang.ac.id/swd/</a></p>
@@ -86,6 +85,6 @@
 <p><a href="https://repository.poltekkes-tanjungpinang.ac.id/slot4d/">https://repository.poltekkes-tanjungpinang.ac.id/slot4d/</a></p>
 <p><a href="https://siakad.itn.ac.id/">slot online</a></p>
 <p><a href="https://congresointernacionalrsu.uwiener.edu.pe/">https://congresointernacionalrsu.uwiener.edu.pe/</a></p>
-<p><a href="https://registrocolegios.uwiener.edu.pe/">https://registrocolegios.uwiener.edu.pe/</a></p>
+<p><a href="https://registrocolegios.uwiener.edu.pe/">slot bet</a></p>
     
 </div>
