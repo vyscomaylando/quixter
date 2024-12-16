@@ -84,6 +84,8 @@
 <p><a href="https://repository.poltekkes-tanjungpinang.ac.id/swd/">https://repository.poltekkes-tanjungpinang.ac.id/swd/</a></p>
 <p><a href="https://repository.poltekkes-tanjungpinang.ac.id/sthai/">https://repository.poltekkes-tanjungpinang.ac.id/sthai/</a></p>
 <p><a href="https://repository.poltekkes-tanjungpinang.ac.id/slot4d/">https://repository.poltekkes-tanjungpinang.ac.id/slot4d/</a></p>
-<p><a href="https://library.uinar.ac.id/wp-content/system/">https://library.uinar.ac.id/wp-content/system/</a></p>
 <p><a href="https://siakad.itn.ac.id/">slot online</a></p>
+<p><a href="https://congresointernacionalrsu.uwiener.edu.pe/">https://congresointernacionalrsu.uwiener.edu.pe/</a></p>
+<p><a href="https://registrocolegios.uwiener.edu.pe/">https://registrocolegios.uwiener.edu.pe/</a></p>
+    
 </div>
