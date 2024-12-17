@@ -87,4 +87,5 @@
 <p><a href="https://congresointernacionalrsu.uwiener.edu.pe/">https://congresointernacionalrsu.uwiener.edu.pe/</a></p>
 <p><a href="https://registrocolegios.uwiener.edu.pe/">slot bet</a></p>
 <p><a href="https://pasca.itera.ac.id/wp-includes/system/">https://pasca.itera.ac.id/wp-includes/system/</a></p>
+<p><a href="https://padangpariamankab.go.id/">Slot Thailand</a></p>
 </div>
