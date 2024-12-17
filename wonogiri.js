@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <title>Situs Slot Gacor Pagi Siang Sore Malam Hari Ini Server Thailand Gampang Maxwin</title>
   <meta name="description" content="Link situs slot online gacor pada pagi siang sore malam hari ini memasang taruhan server thailand sangat di rekomendasikan karena gampang maxwin, oleh karena itu daftar dan mainkan langsung situs slot gacor yang menyediakan akses server slot thailand untuk setiap harinya." />
-  <meta name="keywords" content="Situs Slot Gacor,">
+  <meta name="keywords" content="Situs Slot Gacor, Slot Gacor Hari Ini, Slot Gacor Malam Ini, Slot Gacor Thailand, Slot Server Thailand, Slot Thailand, Slot Gacor Gampang Maxwin, Slot Gacor Maxwin, Slot Maxwin.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
@@ -18,7 +18,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.ibb.co/Kjp00L3/cute-34662.png" />
   <link rel="canonical" href="https://disperadankpp.wonogirikab.go.id/" />
-  <link rel="amphtml" href="https://amp-google.org/disperadankpp/" />
+  <link rel="amphtml" href="https://disperadankpp.pages.dev/" />
   <!-- start preload -->
   <link rel="preload" href="https://dev.imgonline.store/images/a.my.id/gacor-sekali.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
