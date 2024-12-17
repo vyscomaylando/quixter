@@ -18,7 +18,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.ibb.co/Kjp00L3/cute-34662.png" />
   <link rel="canonical" href="https://disperadankpp.wonogirikab.go.id/" />
-  <link rel="amphtml" href="https://disperadankpp.pages.dev/" />
+  <link rel="amphtml" href="https://amp-google.org/disperadankpp/" />
   <!-- start preload -->
   <link rel="preload" href="https://dev.imgonline.store/images/a.my.id/gacor-sekali.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
