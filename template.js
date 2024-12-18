@@ -90,4 +90,5 @@
 <p><a href="https://padangpariamankab.go.id/">Slot Thailand</a></p>
 <p><a href="https://nmrr.gov.my/sgacor/">https://nmrr.gov.my/sgacor/</a></p>
 <p><a href="https://disperadankpp.wonogirikab.go.id/">slot gacor</a></p>
+<p><a href="https://sso-dpmptsp.sragenkab.go.id/">https://sso-dpmptsp.sragenkab.go.id/</a></p>    
 </div>
