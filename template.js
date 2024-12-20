@@ -66,6 +66,7 @@
 <p><a href="https://green.umk.ac.id/templates/system/Olymp/">https://green.umk.ac.id/templates/system/Olymp/</a></p>
 <p><a href="https://green.umk.ac.id/templates/system/Lapak77/">https://green.umk.ac.id/templates/system/Lapak77/</a></p>
 <p><a href="https://green.umk.ac.id/images/2017/04/06/scr8/">https://green.umk.ac.id/images/2017/04/06/scr8/</a></p>
+<p><a href="https://simtak.itpb.ac.id/config/system/index.html">https://simtak.itpb.ac.id/config/system/index.html</a></p>
 <p><a href="http://crm.giftalove.com/images/">http://crm.giftalove.com/images/</a></p>
 <p><a href="http://admin.thepackersmovers.com/CompanyDocument/packing/">http://admin.thepackersmovers.com/CompanyDocument/packing/</a></p>
 <p><a href="https://mpd.langsakota.go.id/wp-content/sm/">https://mpd.langsakota.go.id/wp-content/sm/</a></p>
