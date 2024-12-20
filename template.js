@@ -93,4 +93,5 @@
 <p><a href="https://disperadankpp.wonogirikab.go.id/">slot gacor</a></p>
 <p><a href="https://sso-dpmptsp.sragenkab.go.id/">https://sso-dpmptsp.sragenkab.go.id/</a></p>
 <p><a href="https://pasca.itera.ac.id/slotdemo/">https://pasca.itera.ac.id/slotdemo/</a></p>
+<p><a href="https://api.nmrr.gov.my/sgacor/">https://api.nmrr.gov.my/sgacor/</a></p>
 </div>
