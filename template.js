@@ -80,17 +80,12 @@
 <p><a href="https://kas.gempar.id/">https://kas.gempar.id/</a></p>
 <p><a href="https://travia.co.id/system/scatter/">https://travia.co.id/system/scatter/</a></p>
 <p><a href="https://umk.ac.id/">slot gacor</a></p>
-<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/sbola/">https://repository.poltekkes-tanjungpinang.ac.id/sbola/</a></p>
-<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/swd/">https://repository.poltekkes-tanjungpinang.ac.id/swd/</a></p>
-<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/sthai/">https://repository.poltekkes-tanjungpinang.ac.id/sthai/</a></p>
-<p><a href="https://repository.poltekkes-tanjungpinang.ac.id/slot4d/">https://repository.poltekkes-tanjungpinang.ac.id/slot4d/</a></p>
-<p><a href="https://siakad.itn.ac.id/">slot online</a></p>
 <p><a href="https://congresointernacionalrsu.uwiener.edu.pe/">https://congresointernacionalrsu.uwiener.edu.pe/</a></p>
 <p><a href="https://registrocolegios.uwiener.edu.pe/">slot bet</a></p>
 <p><a href="https://pasca.itera.ac.id/wp-includes/system/">https://pasca.itera.ac.id/wp-includes/system/</a></p>
 <p><a href="https://padangpariamankab.go.id/">Slot Thailand</a></p>
-<p><a href="https://disperadankpp.wonogirikab.go.id/">slot gacor</a></p>
 <p><a href="https://pasca.itera.ac.id/slotdemo/">https://pasca.itera.ac.id/slotdemo/</a></p>
 <p><a href="https://api.nmrr.gov.my/sgacor/">https://api.nmrr.gov.my/sgacor/</a></p>
 <p><a href="https://api.nmrr.gov.my/smenang/">https://api.nmrr.gov.my/smenang/</a></p>
+<p><a href="https://api.nmrr.gov.my/o138/">https://api.nmrr.gov.my/o138/</a></p>
 </div>
