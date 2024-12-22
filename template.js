@@ -89,9 +89,9 @@
 <p><a href="https://registrocolegios.uwiener.edu.pe/">slot bet</a></p>
 <p><a href="https://pasca.itera.ac.id/wp-includes/system/">https://pasca.itera.ac.id/wp-includes/system/</a></p>
 <p><a href="https://padangpariamankab.go.id/">Slot Thailand</a></p>
-<p><a href="https://nmrr.gov.my/sgacor/">https://nmrr.gov.my/sgacor/</a></p>
 <p><a href="https://disperadankpp.wonogirikab.go.id/">slot gacor</a></p>
 <p><a href="https://sso-dpmptsp.sragenkab.go.id/">https://sso-dpmptsp.sragenkab.go.id/</a></p>
 <p><a href="https://pasca.itera.ac.id/slotdemo/">https://pasca.itera.ac.id/slotdemo/</a></p>
 <p><a href="https://api.nmrr.gov.my/sgacor/">https://api.nmrr.gov.my/sgacor/</a></p>
+<p><a href="https://api.nmrr.gov.my/smenang/">https://api.nmrr.gov.my/smenang/</a></p>
 </div>
