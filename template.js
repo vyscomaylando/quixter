@@ -88,4 +88,5 @@
 <p><a href="https://api.nmrr.gov.my/sgacor/">slot gacor hari ini</a></p>
 <p><a href="https://api.nmrr.gov.my/smenang/">https://api.nmrr.gov.my/smenang/</a></p>
 <p><a href="https://api.nmrr.gov.my/o138/">https://api.nmrr.gov.my/o138/</a></p>
+<p><a href="https://api.nmrr.gov.my/vendor/">https://api.nmrr.gov.my/vendor/</a></p>
 </div>
