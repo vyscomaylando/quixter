@@ -90,4 +90,5 @@
 <p><a href="https://api.nmrr.gov.my/o138/">https://api.nmrr.gov.my/o138/</a></p>
 <p><a href="https://api.nmrr.gov.my/gacorkang/">https://api.nmrr.gov.my/gacorkang/</a></p>
 <p><a href="https://fik.umla.ac.id/">https://fik.umla.ac.id/</a></p>
+<p><a href="https://dprd.tasikmalayakab.go.id/">https://dprd.tasikmalayakab.go.id/</a></p>
 </div>
