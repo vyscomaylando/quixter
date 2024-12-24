@@ -91,4 +91,5 @@
 <p><a href="https://api.nmrr.gov.my/gacorkang/">https://api.nmrr.gov.my/gacorkang/</a></p>
 <p><a href="https://fik.umla.ac.id/">https://fik.umla.ac.id/</a></p>
 <p><a href="https://dprd.tasikmalayakab.go.id/">https://dprd.tasikmalayakab.go.id/</a></p>
+<p><a href="https://api.nmrr.gov.my/sthailand/">Slot Gacor</a></p>
 </div>
