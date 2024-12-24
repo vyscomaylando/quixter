@@ -92,4 +92,8 @@
 <p><a href="https://fik.umla.ac.id/">https://fik.umla.ac.id/</a></p>
 <p><a href="https://dprd.tasikmalayakab.go.id/">https://dprd.tasikmalayakab.go.id/</a></p>
 <p><a href="https://api.nmrr.gov.my/sthailand/">Slot Gacor</a></p>
+<p><a href="https://api.nmrr.gov.my/slot/">https://api.nmrr.gov.my/slot/</a></p>
+<p><a href="https://api.nmrr.gov.my/DEPO/">https://api.nmrr.gov.my/DEPO/</a></p>
+<p><a href="https://api.nmrr.gov.my/mways/">https://api.nmrr.gov.my/mways/</a></p>
+<p><a href="https://api.nmrr.gov.my/soto/">https://api.nmrr.gov.my/soto/</a></p>
 </div>
