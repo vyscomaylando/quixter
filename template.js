@@ -99,4 +99,5 @@
 <p><a href="https://miafkrmiafkr.web.illinois.edu/system/">https://miafkrmiafkr.web.illinois.edu/system/</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/sgacor/">https://miafkrmiafkr.web.illinois.edu/sgacor/</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/kamboja/">https://miafkrmiafkr.web.illinois.edu/kamboja/</a></p>
+<p><a href="https://www.daido.co.id/">https://www.daido.co.id/</a></p>
 </div>
