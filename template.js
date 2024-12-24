@@ -80,7 +80,7 @@
 <p><a href="https://kas.gempar.id/">https://kas.gempar.id/</a></p>
 <p><a href="https://travia.co.id/system/scatter/">https://travia.co.id/system/scatter/</a></p>
 <p><a href="https://umk.ac.id/">slot gacor</a></p>
-<p><a href="https://congresointernacionalrsu.uwiener.edu.pe/">https://congresointernacionalrsu.uwiener.edu.pe/</a></p>
+<p><a href="https://congresointernacionalrsu.uwiener.edu.pe/">Pusat Judi Slot Online</a></p>
 <p><a href="https://registrocolegios.uwiener.edu.pe/">slot bet</a></p>
 <p><a href="https://pasca.itera.ac.id/wp-includes/system/">https://pasca.itera.ac.id/wp-includes/system/</a></p>
 <p><a href="https://padangpariamankab.go.id/">Slot Thailand</a></p>
