@@ -100,4 +100,15 @@
 <p><a href="https://miafkrmiafkr.web.illinois.edu/sgacor/">https://miafkrmiafkr.web.illinois.edu/sgacor/</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/kamboja/">https://miafkrmiafkr.web.illinois.edu/kamboja/</a></p>
 <p><a href="https://www.daido.co.id/">https://www.daido.co.id/</a></p>
+<p><a href="https://hmpsi.umk.ac.id/himpunan/">https://hmpsi.umk.ac.id/himpunan/</a></p>
+<p><a href="https://keuangan.itn.ac.id/app/keuangan/index.html">https://keuangan.itn.ac.id/app/keuangan/index.html</a></p>
+<p><a href="http://kira.itn.ac.id/phpmyadmin/kira/">http://kira.itn.ac.id/phpmyadmin/kira/</a></p>
+<p><a href="https://lp2k.itn.ac.id/wp-content/lppk/">https://lp2k.itn.ac.id/wp-content/lppk/</a></p>
+<p><a href="https://pmboffice.itn.ac.id/asset/office/index.html">https://pmboffice.itn.ac.id/asset/office/index.html</a></p>
+<p><a href="https://siabaz.itn.ac.id/assets/siabaz/">https://siabaz.itn.ac.id/assets/siabaz/</a></p>
+<p><a href="https://siakad.itn.ac.id/vendor/siakad/">https://siakad.itn.ac.id/vendor/siakad/</a></p>
+<p><a href="https://siakadpasca.itn.ac.id/template/pasca/">https://siakadpasca.itn.ac.id/template/pasca/</a></p>
+<p><a href="https://sidosen.itn.ac.id/system/sidosen/index.html">https://sidosen.itn.ac.id/system/sidosen/index.html</a></p>
+<p><a href="https://sim.itn.ac.id/simulasi/sim/">https://sim.itn.ac.id/simulasi/sim/</a></p>
+<p><a href="https://simanis.itn.ac.id/html/simanis/index.html">https://simanis.itn.ac.id/html/simanis/index.html</a></p>
 </div>
