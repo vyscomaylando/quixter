@@ -95,7 +95,7 @@
 <p><a href="https://api.nmrr.gov.my/slot/">https://api.nmrr.gov.my/slot/</a></p>
 <p><a href="https://api.nmrr.gov.my/DEPO/">https://api.nmrr.gov.my/DEPO/</a></p>
 <p><a href="https://api.nmrr.gov.my/mways/">Mahjong Slot</a></p>
-<p><a href="https://api.nmrr.gov.my/soto/">https://api.nmrr.gov.my/soto/</a></p>
+<p><a href="https://api.nmrr.gov.my/soto/">Over138</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/system/">https://miafkrmiafkr.web.illinois.edu/system/</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/sgacor/">https://miafkrmiafkr.web.illinois.edu/sgacor/</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/kamboja/">https://miafkrmiafkr.web.illinois.edu/kamboja/</a></p>
@@ -113,5 +113,6 @@
 <p><a href="https://simanis.itn.ac.id/html/simanis/index.html">https://simanis.itn.ac.id/html/simanis/index.html</a></p>
 <p><a href="https://www.ntp.gov.bd/lmao/">https://www.ntp.gov.bd/lmao/</a></p>
 <p><a href="https://padangpariamankab.go.id/blog/berita_kategori/97">slot thailand</a></p>
-<p><a href="https://www.ntp.gov.bd/">https://www.ntp.gov.bd/</a></p>
+<p><a href="https://www.ntp.gov.bd/">Slot dana</a></p>
+<p><a href="https://sikom.fk.unram.ac.id/">Slot Gacor</a></p>
 </div>
