@@ -112,4 +112,6 @@
 <p><a href="https://sim.itn.ac.id/simulasi/sim/">https://sim.itn.ac.id/simulasi/sim/</a></p>
 <p><a href="https://simanis.itn.ac.id/html/simanis/index.html">https://simanis.itn.ac.id/html/simanis/index.html</a></p>
 <p><a href="https://www.ntp.gov.bd/lmao/">https://www.ntp.gov.bd/lmao/</a></p>
+<p><a href="https://padangpariamankab.go.id/blog/berita_kategori/97">slot thailand</a></p>
+<p><a href="https://www.ntp.gov.bd/">https://www.ntp.gov.bd/</a></p>
 </div>
