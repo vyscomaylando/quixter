@@ -54,4 +54,7 @@
 <p><a href="https://sikom.fk.unram.ac.id/">Slot Gacor</a></p>
 <p><a href="https://api.nmrr.gov.my/xyz/">https://api.nmrr.gov.my/xyz/</a></p>
 <p><a href="https://tojounauna.go.id/">https://tojounauna.go.id/</a></p>
+<p><a href="https://smpn2cisarua-kabbogor.sch.id/sgacor/">https://smpn2cisarua-kabbogor.sch.id/sgacor/</a></p>
+<p><a href="http://psikoanalisis.or.id/dana/">http://psikoanalisis.or.id/dana/</a></p>
+<p><a href="https://psikoanalisis.or.id/seox/">https://psikoanalisis.or.id/seox/</a></p>
 </div>
