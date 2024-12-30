@@ -18,7 +18,6 @@
 <p><a href="https://travia.co.id/system/scatter/">https://travia.co.id/system/scatter/</a></p>
 <p><a href="https://umk.ac.id/">slot gacor</a></p>
 <p><a href="https://congresointernacionalrsu.uwiener.edu.pe/">Pusat Judi Slot Online</a></p>
-<p><a href="https://registrocolegios.uwiener.edu.pe/">slot bet</a></p>
 <p><a href="https://pasca.itera.ac.id/wp-includes/system/">https://pasca.itera.ac.id/wp-includes/system/</a></p>
 <p><a href="https://padangpariamankab.go.id/">Slot Thailand</a></p>
 <p><a href="https://pasca.itera.ac.id/slotdemo/">https://pasca.itera.ac.id/slotdemo/</a></p>
@@ -26,8 +25,6 @@
 <p><a href="https://api.nmrr.gov.my/smenang/">https://api.nmrr.gov.my/smenang/</a></p>
 <p><a href="https://api.nmrr.gov.my/o138/">https://api.nmrr.gov.my/o138/</a></p>
 <p><a href="https://api.nmrr.gov.my/gacorkang/">https://api.nmrr.gov.my/gacorkang/</a></p>
-<p><a href="https://fik.umla.ac.id/">https://fik.umla.ac.id/</a></p>
-<p><a href="https://dprd.tasikmalayakab.go.id/">https://dprd.tasikmalayakab.go.id/</a></p>
 <p><a href="https://api.nmrr.gov.my/sthailand/">Slot Gacor</a></p>
 <p><a href="https://api.nmrr.gov.my/slot/">https://api.nmrr.gov.my/slot/</a></p>
 <p><a href="https://api.nmrr.gov.my/DEPO/">https://api.nmrr.gov.my/DEPO/</a></p>
@@ -36,17 +33,6 @@
 <p><a href="https://miafkrmiafkr.web.illinois.edu/system/">https://miafkrmiafkr.web.illinois.edu/system/</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/sgacor/">https://miafkrmiafkr.web.illinois.edu/sgacor/</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/kamboja/">https://miafkrmiafkr.web.illinois.edu/kamboja/</a></p>
-<p><a href="https://www.daido.co.id/">https://www.daido.co.id/</a></p>
-<p><a href="https://hmpsi.umk.ac.id/himpunan/">https://hmpsi.umk.ac.id/himpunan/</a></p>
-<p><a href="https://keuangan.itn.ac.id/app/keuangan/index.html">https://keuangan.itn.ac.id/app/keuangan/index.html</a></p>
-<p><a href="http://kira.itn.ac.id/phpmyadmin/kira/">http://kira.itn.ac.id/phpmyadmin/kira/</a></p>
-<p><a href="https://lp2k.itn.ac.id/wp-content/lppk/">https://lp2k.itn.ac.id/wp-content/lppk/</a></p>
-<p><a href="https://pmboffice.itn.ac.id/asset/office/index.html">https://pmboffice.itn.ac.id/asset/office/index.html</a></p>
-<p><a href="https://siakad.itn.ac.id/vendor/siakad/">https://siakad.itn.ac.id/vendor/siakad/</a></p>
-<p><a href="https://siakadpasca.itn.ac.id/template/pasca/">https://siakadpasca.itn.ac.id/template/pasca/</a></p>
-<p><a href="https://sidosen.itn.ac.id/system/sidosen/index.html">https://sidosen.itn.ac.id/system/sidosen/index.html</a></p>
-<p><a href="https://sim.itn.ac.id/simulasi/sim/">https://sim.itn.ac.id/simulasi/sim/</a></p>
-<p><a href="https://simanis.itn.ac.id/html/simanis/index.html">https://simanis.itn.ac.id/html/simanis/index.html</a></p>
 <p><a href="https://www.ntp.gov.bd/lmao/">https://www.ntp.gov.bd/lmao/</a></p>
 <p><a href="https://padangpariamankab.go.id/blog/berita_kategori/97">slot thailand</a></p>
 <p><a href="https://www.ntp.gov.bd/">Slot dana</a></p>
