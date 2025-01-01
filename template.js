@@ -42,4 +42,6 @@
 <p><a href="http://psikoanalisis.or.id/dana/">http://psikoanalisis.or.id/dana/</a></p>
 <p><a href="https://psikoanalisis.or.id/seox/">https://psikoanalisis.or.id/seox/</a></p>
 <p><a href="https://api.nmrr.gov.my/gacorkang/">slot gacor gampang menang 2025</a></p>
+<p><a href="https://api.nmrr.gov.my/thai/">https://api.nmrr.gov.my/thai/</a></p>
+<p><a href="https://api.nmrr.gov.my/maxwin/">https://api.nmrr.gov.my/maxwin/</a></p>
 </div>
