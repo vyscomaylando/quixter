@@ -22,7 +22,7 @@
 <p><a href="https://padangpariamankab.go.id/">Slot Thailand</a></p>
 <p><a href="https://pasca.itera.ac.id/slotdemo/">https://pasca.itera.ac.id/slotdemo/</a></p>
 <p><a href="https://api.nmrr.gov.my/sgacor/">slot gacor hari ini</a></p>
-<p><a href="https://api.nmrr.gov.my/smenang/">https://api.nmrr.gov.my/smenang/</a></p>
+<p><a href="https://api.nmrr.gov.my/smenang/">Over138</a></p>
 <p><a href="https://api.nmrr.gov.my/o138/">https://api.nmrr.gov.my/o138/</a></p>
 <p><a href="https://api.nmrr.gov.my/gacorkang/">https://api.nmrr.gov.my/gacorkang/</a></p>
 <p><a href="https://api.nmrr.gov.my/sthailand/">Slot Gacor</a></p>
