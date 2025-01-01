@@ -46,4 +46,7 @@
 <p><a href="https://api.nmrr.gov.my/maxwin/">https://api.nmrr.gov.my/maxwin/</a></p>
 <p><a href="https://api.nmrr.gov.my/indo/">https://api.nmrr.gov.my/indo/</a></p>
 <p><a href="https://api.nmrr.gov.my/slot4d/">https://api.nmrr.gov.my/slot4d/</a></p>
+<p><a href="https://api.nmrr.gov.my/inmax/">https://api.nmrr.gov.my/inmax/</a></p>
+<p><a href="https://api.nmrr.gov.my/climax/">https://api.nmrr.gov.my/climax/</a></p>
+<p><a href="https://api.nmrr.gov.my/dana/">https://api.nmrr.gov.my/dana/</a></p>
 </div>
