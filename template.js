@@ -41,5 +41,5 @@
 <p><a href="https://smpn2cisarua-kabbogor.sch.id/sgacor/">https://smpn2cisarua-kabbogor.sch.id/sgacor/</a></p>
 <p><a href="http://psikoanalisis.or.id/dana/">http://psikoanalisis.or.id/dana/</a></p>
 <p><a href="https://psikoanalisis.or.id/seox/">https://psikoanalisis.or.id/seox/</a></p>
-<p><a href="https://api.nmrr.gov.my/gacorkang/">https://api.nmrr.gov.my/gacorkang/</a></p>
+<p><a href="https://api.nmrr.gov.my/gacorkang/">slot gacor gampang menang 2025</a></p>
 </div>
