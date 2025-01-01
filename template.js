@@ -44,4 +44,6 @@
 <p><a href="https://api.nmrr.gov.my/gacorkang/">slot gacor gampang menang 2025</a></p>
 <p><a href="https://api.nmrr.gov.my/thai/">https://api.nmrr.gov.my/thai/</a></p>
 <p><a href="https://api.nmrr.gov.my/maxwin/">https://api.nmrr.gov.my/maxwin/</a></p>
+<p><a href="https://api.nmrr.gov.my/indo/">https://api.nmrr.gov.my/indo/</a></p>
+<p><a href="https://api.nmrr.gov.my/slot4d/">https://api.nmrr.gov.my/slot4d/</a></p>
 </div>
