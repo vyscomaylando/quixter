@@ -50,4 +50,5 @@
 <p><a href="https://api.nmrr.gov.my/climax/">https://api.nmrr.gov.my/climax/</a></p>
 <p><a href="https://api.nmrr.gov.my/dana/">https://api.nmrr.gov.my/dana/</a></p>
 <p><a href="http://opacdpk.pinrangkab.go.id/">http://opacdpk.pinrangkab.go.id/</a></p>
+<p><a href="https://smpn2cisarua-kabbogor.sch.id/">https://smpn2cisarua-kabbogor.sch.id/</a></p>
 </div>
