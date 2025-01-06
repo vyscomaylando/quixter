@@ -30,9 +30,9 @@
 <p><a href="https://api.nmrr.gov.my/DEPO/">https://api.nmrr.gov.my/DEPO/</a></p>
 <p><a href="https://api.nmrr.gov.my/mways/">Mahjong Slot</a></p>
 <p><a href="https://api.nmrr.gov.my/soto/">Over138</a></p>
-<p><a href="https://miafkrmiafkr.web.illinois.edu/system/">https://miafkrmiafkr.web.illinois.edu/system/</a></p>
-<p><a href="https://miafkrmiafkr.web.illinois.edu/sgacor/">https://miafkrmiafkr.web.illinois.edu/sgacor/</a></p>
-<p><a href="https://miafkrmiafkr.web.illinois.edu/kamboja/">https://miafkrmiafkr.web.illinois.edu/kamboja/</a></p>
+<p><a href="https://miafkrmiafkr.web.illinois.edu/system/">over138</a></p>
+<p><a href="https://miafkrmiafkr.web.illinois.edu/sgacor/">over138</a></p>
+<p><a href="https://miafkrmiafkr.web.illinois.edu/kamboja/">over138</a></p>
 <p><a href="https://padangpariamankab.go.id/blog/berita_kategori/97">slot thailand</a></p>
 <p><a href="https://www.ntp.gov.bd/">Slot dana</a></p>
 <p><a href="https://sikom.fk.unram.ac.id/">Slot Gacor</a></p>
