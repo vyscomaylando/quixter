@@ -29,5 +29,5 @@
 <p><a href="https://tojounauna.go.id/">https://tojounauna.go.id/</a></p>
 <p><a href="http://opacdpk.pinrangkab.go.id/">slot gacor hari ini</a></p>
 <p><a href="https://banksampah.balangankab.go.id/">Live Draw HK</a></p>
-<p><a href="https://tojounauna.go.id/drawhk/">https://tojounauna.go.id/drawhk/</a></p>
+<p><a href="https://tojounauna.go.id/scatter-hitam/">https://tojounauna.go.id/scatter-hitam/</a></p>
 </div>
