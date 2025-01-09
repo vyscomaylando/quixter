@@ -32,4 +32,5 @@
 <p><a href="https://tojounauna.go.id/scatter-hitam/">https://tojounauna.go.id/scatter-hitam/</a></p>
 <p><a href="https://pasca.itera.ac.id">slot gacor gampang menang</a></p>
 <p><a href="https://flashcomunicaciones.com.co/">https://flashcomunicaciones.com.co/</a></p>
+<p><a href="https://pasca.itera.ac.id/gampang/">https://pasca.itera.ac.id/gampang/</a><p>
 </div>
