@@ -34,4 +34,5 @@
 <p><a href="https://pasca.itera.ac.id/gampang/">https://pasca.itera.ac.id/gampang/</a><p>
 <p><a href="https://pendfisika.unkhair.ac.id/wp-content/sistem/slot-deposit-5k/">https://pendfisika.unkhair.ac.id/wp-content/sistem/slot-deposit-5k/</a><p>
 <p><a href="https://p3km.polman-babel.ac.id/themes.php">https://p3km.polman-babel.ac.id/themes.php</a><p>
+<p><a href="https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-gacor/">https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-gacor/</a><p>
 </div>
