@@ -19,12 +19,10 @@
 <p><a href="https://umk.ac.id/">slot gacor</a></p>
 <p><a href="https://congresointernacionalrsu.uwiener.edu.pe/">Pusat Judi Slot Online</a></p>
 <p><a href="https://pasca.itera.ac.id/wp-includes/system/">https://pasca.itera.ac.id/wp-includes/system/</a></p>
-<p><a href="https://padangpariamankab.go.id/">Slot Thailand</a></p>
 <p><a href="https://pasca.itera.ac.id/slotdemo/">https://pasca.itera.ac.id/slotdemo/</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/system/">over138</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/sgacor/">over138</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/kamboja/">over138</a></p>
-<p><a href="https://padangpariamankab.go.id/blog/berita_kategori/97">slot thailand</a></p>
 <p><a href="https://sikom.fk.unram.ac.id/">Slot Gacor</a></p>
 <p><a href="https://tojounauna.go.id/">Slot Thailand</a></p>
 <p><a href="http://opacdpk.pinrangkab.go.id/">slot gacor hari ini</a></p>
@@ -36,4 +34,5 @@
 <p><a href="https://p3km.polman-babel.ac.id/themes.php">https://p3km.polman-babel.ac.id/themes.php</a><p>
 <p><a href="https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-gacor/">https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-gacor/</a><p>
 <p><a href="https://pendfisika.unkhair.ac.id/wp-content/gacorlagi/">https://pendfisika.unkhair.ac.id/wp-content/gacorlagi/</a><p>
+<p><a href="https://pasca.itera.ac.id/">https://pasca.itera.ac.id/</a><p>
 </div>
