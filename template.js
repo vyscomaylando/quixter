@@ -47,4 +47,5 @@
 <p><a href="https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-dana/">https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-dana/</a><p>
 <p><a href="https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-5k/">https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-5k/</a><p>
 <p><a href="https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-200/">https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-200/</a><p>
+<p><a href="https://jom.fti.budiluhur.ac.id/">https://jom.fti.budiluhur.ac.id/</a><p>
 </div>
