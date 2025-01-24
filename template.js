@@ -50,4 +50,6 @@
 <p><a href="https://jom.fti.budiluhur.ac.id/">https://jom.fti.budiluhur.ac.id/</a><p>
 <p><a href="https://mega888resmi.pages.dev/">mega888</a><p>
 <p><a href="https://joker88s.glitch.me/">https://joker88s.glitch.me/</a><p>
+<p><a href="https://jok88.glitch.me/">joker88 link alternatif</a><p>
+
 </div>
