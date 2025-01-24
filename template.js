@@ -49,4 +49,5 @@
 <p><a href="https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-200/">https://pendfisika.unkhair.ac.id/wp-content/informasi/slot-200/</a><p>
 <p><a href="https://jom.fti.budiluhur.ac.id/">https://jom.fti.budiluhur.ac.id/</a><p>
 <p><a href="https://mega888resmi.pages.dev/">mega888</a><p>
+<p><a href="https://joker88s.glitch.me/">https://joker88s.glitch.me/</a><p>
 </div>
