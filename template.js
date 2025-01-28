@@ -13,6 +13,7 @@
 <p><a href="https://slot200.lapssjk.id/">https://slot200.lapssjk.id/</a></p>
 <p><a href="https://slot4d.lapssjk.id/">https://slot4d.lapssjk.id/</a></p>
 <p><a href="https://kas.gempar.id/">scatter hitam</a></p>
+<p><a href="https://api.nmrr.gov.my/dana/">https://api.nmrr.gov.my/dana/</a></p>
 <p><a href="https://msp.unkhair.ac.id/">slot thailand</a></p>
 <p><a href="https://kas.gempar.id/">https://kas.gempar.id/</a></p>
 <p><a href="https://travia.co.id/system/scatter/">https://travia.co.id/system/scatter/</a></p>
