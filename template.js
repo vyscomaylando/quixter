@@ -56,5 +56,9 @@
 <p><a href="https://www.rhstitle.com/">https://www.rhstitle.com/</a></p>
 <p><a href="https://oia.umk.ac.id/bet200/">https://oia.umk.ac.id/bet200/</a></p>
 <p><a href="https://oia.umk.ac.id/sdepo10k/">https://oia.umk.ac.id/sdepo10k/</a></p>
+<p><a href="https://oia.umk.ac.id/slo4d/">https://oia.umk.ac.id/slo4d/</a></p>
+<p><a href="https://oia.umk.ac.id/system/">https://oia.umk.ac.id/system/</a></p>
+<p><a href="https://oia.umk.ac.id/ziaaa/">https://oia.umk.ac.id/ziaaa/</a></p>
+<p><a href="https://oia.umk.ac.id/ziatoto/">https://oia.umk.ac.id/ziatoto/</a></p>
 
 </div>
