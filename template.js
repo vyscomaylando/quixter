@@ -54,5 +54,7 @@
 <p><a href="http://joker88-5000.com/">Joker88</a></p>
 <p><a href="https://joker88-10k.com/">https://joker88-10k.com/</a></p>
 <p><a href="https://www.rhstitle.com/">https://www.rhstitle.com/</a></p>
+<p><a href="https://oia.umk.ac.id/bet200/">https://oia.umk.ac.id/bet200/</a></p>
+<p><a href="https://oia.umk.ac.id/sdepo10k/">https://oia.umk.ac.id/sdepo10k/</a></p>
 
 </div>
