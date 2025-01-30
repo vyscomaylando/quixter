@@ -24,5 +24,5 @@
 <p><a href="https://oia.umk.ac.id/ziaaa/">https://oia.umk.ac.id/ziaaa/</a></p>
 <p><a href="https://oia.umk.ac.id/ziatoto/">https://oia.umk.ac.id/ziatoto/</a></p>
 <p><a href="https://librodereclamaciones.uwiener.edu.pe/">https://librodereclamaciones.uwiener.edu.pe/</a></p>
-
+<p><a href="https://subscriptions.superpersonalisedbooks.co.uk/">slot thailand 2025</a></p>
 </div>
