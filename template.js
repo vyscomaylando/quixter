@@ -5,7 +5,6 @@
 <p><a href="https://mpd.langsakota.go.id/wp-content/sm/">https://mpd.langsakota.go.id/wp-content/sm/</a></p>
 <p><a href="https://stieprasetiyamandiri.ac.id/sdana/">https://stieprasetiyamandiri.ac.id/sdana/</a></p>
 <p><a href="https://stieprasetiyamandiri.ac.id/wp-content/uploads/">https://stieprasetiyamandiri.ac.id/wp-content/uploads/</a></p>
-<p><a href="https://api.nmrr.gov.my/dana/">https://api.nmrr.gov.my/dana/</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/system/">over138</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/sgacor/">over138</a></p>
 <p><a href="https://miafkrmiafkr.web.illinois.edu/kamboja/">over138</a></p>
