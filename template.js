@@ -1,7 +1,4 @@
 <div style="width:1px;height:1px;overflow:hidden">
- <p><a href="https://poltekpelsulut.ac.id/wp-content/lp77/">https://poltekpelsulut.ac.id/wp-content/lp77/</a></p>
-<p><a href="http://crm.giftalove.com/images/">http://crm.giftalove.com/images/</a></p>
-<p><a href="http://admin.thepackersmovers.com/CompanyDocument/packing/">http://admin.thepackersmovers.com/CompanyDocument/packing/</a></p>
 <p><a href="https://mpd.langsakota.go.id/wp-content/sm/">https://mpd.langsakota.go.id/wp-content/sm/</a></p>
 <p><a href="https://stieprasetiyamandiri.ac.id/sdana/">https://stieprasetiyamandiri.ac.id/sdana/</a></p>
 <p><a href="https://stieprasetiyamandiri.ac.id/wp-content/uploads/">https://stieprasetiyamandiri.ac.id/wp-content/uploads/</a></p>
