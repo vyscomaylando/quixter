@@ -27,4 +27,7 @@
 <p><a href="https://www.newportarmynavy.com/">https://www.newportarmynavy.com/</a></p>
 <p><a href="https://thingsthatmakeyougowow.com/">https://thingsthatmakeyougowow.com/</a></p>
 <p><a href="https://over138s.glitch.me/">Over138</a></p>
+<p><a href="https://www.requesttech.com/">https://www.requesttech.com/</a></p>
+<p><a href="https://trondev.com/">Joker88</a></p>
+<p><a href="https://www.mtns.net/">https://www.mtns.net/</a></p>
 </div>
