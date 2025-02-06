@@ -29,4 +29,5 @@
 <p><a href="https://info.akabi.ac.id/">https://info.akabi.ac.id/</a></p>
 <p><a href="https://3.1.197.223/">https://3.1.197.223/</a></p>
 <p><a href="https://www.golfbybud.com/">https://www.golfbybud.com/</a></p>
+<p><a href="https://www.newdags.com/">https://www.newdags.com/</a></p>
 </div>
