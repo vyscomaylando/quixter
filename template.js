@@ -31,4 +31,7 @@
 <p><a href="https://www.golfbybud.com/">https://www.golfbybud.com/</a></p>
 <p><a href="https://www.newdags.com/">https://www.newdags.com/</a></p>
 <p><a href="https://joker88-5000.com/gratis/">DEMO</a></p>
+<p><a href="https://joker88-5000.com/hk/">HK draw live</a></p>
+<p><a href="https://joker88-5000.com/sdy/">HK Sydney</a></p>
+<p><a href="https://joker88-5000.com/sgp/">HK draw singappore</a></p>
 </div>
