@@ -31,8 +31,9 @@
 <p><a href="https://www.golfbybud.com/">https://www.golfbybud.com/</a></p>
 <p><a href="https://www.newdags.com/">https://www.newdags.com/</a></p>
 <p><a href="https://joker88-5000.com/gratis/">DEMO</a></p>
-<p><a href="https://joker88-5000.com/hk/">HK draw live</a></p>
-<p><a href="https://joker88-5000.com/sdy/">HK Sydney</a></p>
-<p><a href="https://joker88-5000.com/sgp/">HK draw singappore</a></p>
+<p><a href="https://joker88-5000.com/hk/">live draw HK</a></p>
+<p><a href="https://joker88-5000.com/sdy/">live draw Sydney</a></p>
+<p><a href="https://joker88-5000.com/sgp/">Live draw singapore</a></p>
 <p><a href="https://joker88-10k.com/">Joker88 Slot</a></p>
+<p><a href="https://joker88-5000.com/app/">joker88</a></p>
 </div>
