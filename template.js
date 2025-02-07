@@ -37,4 +37,5 @@
 <p><a href="https://joker88-10k.com/">Joker88 Slot</a></p>
 <p><a href="https://joker88-5000.com/app/">joker88</a></p>
 <p><a href="https://joker88-10k.com/gacor/">https://joker88-10k.com/gacor/</a></p>
+<p><a href="https://joker88-5000.com/offline/">Joker88</a></p>
 </div>
