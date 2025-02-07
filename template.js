@@ -34,4 +34,5 @@
 <p><a href="https://joker88-5000.com/hk/">HK draw live</a></p>
 <p><a href="https://joker88-5000.com/sdy/">HK Sydney</a></p>
 <p><a href="https://joker88-5000.com/sgp/">HK draw singappore</a></p>
+<p><a href="https://joker88-10k.com/">Joker88 Slot</a></p>
 </div>
