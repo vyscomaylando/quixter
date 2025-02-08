@@ -38,6 +38,7 @@
 <p><a href="https://joker88-5000.com/app/">joker88</a></p>
 <p><a href="https://joker88-10k.com/gacor/">https://joker88-10k.com/gacor/</a></p>
 <p><a href="https://joker88-5000.com/offline/">Joker88</a></p>
-<p><a href="https://joker88-5000.com/jokerslot/">jokerslot</a></p>
+<p><a href="https://joker88-5000.com/jokerslot/">joker88 slot</a></p>
 <p><a href="https://joker88-5000.com/slot/">joker88</a></p>
+<p><a href="https://joker88-5000.com/pusat/">Joker88</a></p>
 </div>
