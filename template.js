@@ -43,4 +43,9 @@
 <p><a href="https://joker88-5000.com/pusat/">Joker88</a></p>
 <p><a href="https://www.bridgecommanderfiles.com/">Joker88</a></p>
 <p><a href="https://pmb.akabi.ac.id/">Joker88</a></p>
+<p><a href="https://joker88-10k.com/resmi/">https://joker88-10k.com/resmi/</a></p>
+<p><a href="https://joker88-10k.com/demo/">https://joker88-10k.com/demo/</a></p>
+<p><a href="https://joker88-10k.com/lmao/">https://joker88-10k.com/lmao/</a></p>
+<p><a href="https://joker88-10k.com/maxwin/">https://joker88-10k.com/maxwin/</a></p>
+<p><a href="https://joker88-10k.com/toto/">https://joker88-10k.com/toto/</a></p>
 </div>
