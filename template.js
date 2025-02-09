@@ -54,4 +54,24 @@
 <p><a href="https://sipin.akabi.ac.id/">DANASLOT</a></p>
 <p><a href="https://joker88-10k.com/nadir/">https://joker88-10k.com/nadir/</a></p>
 <p><a href="https://danaslot.pw/slot/">danaslot</a></p>
+<p><a href="https://designaddict.com/community/profile/joker88-slot/">https://designaddict.com/community/profile/joker88-slot/</a></p>
+<p><a href="https://profile.hatena.ne.jp/Joker88lot/profile">https://profile.hatena.ne.jp/Joker88lot/profile</a></p>
+<p><a href="https://uktilingforum.com/community/profile/joker88slot/">https://uktilingforum.com/community/profile/joker88slot/</a></p>
+<p><a href="https://support.mozilla.org/id/user/Joker88/">https://support.mozilla.org/id/user/Joker88/</a></p>
+<p><a href="https://service.novastar.tech/support/forum/profile/222150/">https://service.novastar.tech/support/forum/profile/222150/</a></p>
+<p><a href="https://id.quora.com/profile/Joker88-Slot/">https://id.quora.com/profile/Joker88-Slot/</a></p>
+<p><a href="https://dentaltechnician.org.uk/community/profile/joker88slot/">https://dentaltechnician.org.uk/community/profile/joker88slot/</a></p>
+<p><a href="https://www.blackhatworld.com/members/joker88slot.2098934/#about">https://www.blackhatworld.com/members/joker88slot.2098934/#about</a></p>
+<p><a href="https://www.livejournal.com/profile/?userid=100601971&t=I">https://www.livejournal.com/profile/?userid=100601971&t=I</a></p>
+<p><a href="https://solace.community/profile/activity/Joker88%20Slot">https://solace.community/profile/activity/Joker88%20Slot</a></p>
+<p><a href="https://medium.com/@slot4dthailand/joker88-slot-depo-10k-situs-slot-deposit-10-ribu-bonus-10k-joker88-tanpa-potongan-1afd816f3c07">https://medium.com/@slot4dthailand/joker88-slot-depo-10k-situs-slot-deposit-10-ribu-bonus-10k-joker88-tanpa-potongan-1afd816f3c07</a></p>
+<p><a href="https://storyweaver.org.in/en/users/1070347">https://storyweaver.org.in/en/users/1070347</a></p>
+<p><a href="https://talk.plesk.com/members/slot4dthailand.396001/#about">https://talk.plesk.com/members/slot4dthailand.396001/#about</a></p>
+<p><a href="https://www.yourquote.in/farel-ino-dylxl/quotes">https://www.yourquote.in/farel-ino-dylxl/quotes</a></p>
+<p><a href="https://www.tourbr.com/backlink/joker88/">https://www.tourbr.com/backlink/joker88/</a></p>
+<p><a href="https://unsplash.com/@joker88slot/">https://unsplash.com/@joker88slot/</a></p>
+<p><a href="https://thai4dslot.hashnode.dev/joker88-slot-depo-10k-situs-slot-deposit-10-ribu-bonus-10k-joker88-tanpa-potongan">https://thai4dslot.hashnode.dev/joker88-slot-depo-10k-situs-slot-deposit-10-ribu-bonus-10k-joker88-tanpa-potongan</a></p>
+<p><a href="https://www.laundrynation.com/community/profile/joker88slot/">https://www.laundrynation.com/community/profile/joker88slot/</a></p>
+<p><a href="https://www.behance.net/gallery/218540129/Joker88">https://www.behance.net/gallery/218540129/Joker88</a></p>
+
 </div>
