@@ -56,5 +56,6 @@
 <p><a href="https://danaslot.pw/slot/">danaslot</a></p>
 <p><a href="https://joker88.pro/">Joker 88</a></p>
 <p><a href="https://www.joker88.us/">Joker88</a></p>
+<p><a href="https://joker88-10k.com/serv/">https://joker88-10k.com/serv/</a></p>
 
 </div>
