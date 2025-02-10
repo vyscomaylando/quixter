@@ -54,5 +54,7 @@
 <p><a href="https://sipin.akabi.ac.id/">DANASLOT</a></p>
 <p><a href="https://joker88-10k.com/nadir/">https://joker88-10k.com/nadir/</a></p>
 <p><a href="https://danaslot.pw/slot/">danaslot</a></p>
+<p><a href="https://joker88.pro/">Joker 88</a></p>
+<p><a href="https://www.joker88.us/">Joker88</a></p>
 
 </div>
