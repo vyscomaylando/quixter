@@ -49,7 +49,7 @@
 <p><a href="https://joker88-10k.com/lmao/">https://joker88-10k.com/lmao/</a></p>
 <p><a href="https://joker88-10k.com/maxwin/">https://joker88-10k.com/maxwin/</a></p>
 <p><a href="https://joker88-10k.com/toto/">toto slot 4d</a></p>
-<p><a href="https://www.lighthouseshoppe.com/">https://www.lighthouseshoppe.com/</a></p>
+<p><a href="https://www.lighthouseshoppe.com/">danaslot77</a></p>
 <p><a href="https://www.sportsinfocentral.com/">https://www.sportsinfocentral.com/</a></p>
 <p><a href="https://sipin.akabi.ac.id/">DANASLOT</a></p>
 <p><a href="https://joker88-10k.com/nadir/">https://joker88-10k.com/nadir/</a></p>
