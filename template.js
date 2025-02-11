@@ -11,7 +11,7 @@
 <p><a href="https://joker88s.glitch.me/">https://joker88s.glitch.me/</a><p>
 <p><a href="https://jok88.glitch.me/">joker88 link alternatif</a><p>
 <p><a href="http://joker88-5000.com/">Joker88</a></p>
-<p><a href="https://www.rhstitle.com/">slot thailand 4d</a></p>
+<p><a href="https://www.rhstitle.com/">https://www.rhstitle.com/</a></p>
 <p><a href="https://oia.umk.ac.id/bet200/">https://oia.umk.ac.id/bet200/</a></p>
 <p><a href="https://oia.umk.ac.id/sdepo10k/">https://oia.umk.ac.id/sdepo10k/</a></p>
 <p><a href="https://oia.umk.ac.id/slo4d/">https://oia.umk.ac.id/slo4d/</a></p>
