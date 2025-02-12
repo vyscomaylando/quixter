@@ -26,7 +26,7 @@
 <p><a href="https://www.requesttech.com/">Joker88</a></p>
 <p><a href="https://trondev.com/">Joker88</a></p>
 <p><a href="https://www.mtns.net/">Joker88</a></p>
-<p><a href="https://info.akabi.ac.id/">https://info.akabi.ac.id/</a></p>
+<p><a href="https://info.akabi.ac.id/">Joker88</a></p>
 <p><a href="https://3.1.197.223/">https://3.1.197.223/</a></p>
 <p><a href="https://www.golfbybud.com/">https://www.golfbybud.com/</a></p>
 <p><a href="https://www.newdags.com/">https://www.newdags.com/</a></p>
@@ -37,25 +37,25 @@
 <p><a href="https://joker88-10k.com/">Joker88 Slot</a></p>
 <p><a href="https://joker88-5000.com/app/">joker88</a></p>
 <p><a href="https://danaslot.pw/">danaslot</a></p>
-<p><a href="https://joker88-10k.com/gacor/">https://joker88-10k.com/gacor/</a></p>
+<p><a href="https://joker88-10k.com/gacor/">Joker88</a></p>
 <p><a href="https://joker88-5000.com/offline/">Joker88</a></p>
 <p><a href="https://joker88-5000.com/jokerslot/">joker88 slot</a></p>
 <p><a href="https://joker88-5000.com/slot/">joker88</a></p>
 <p><a href="https://joker88-5000.com/pusat/">Joker88</a></p>
 <p><a href="https://www.bridgecommanderfiles.com/">Joker88</a></p>
 <p><a href="https://pmb.akabi.ac.id/">Joker88</a></p>
-<p><a href="https://joker88-10k.com/resmi/">https://joker88-10k.com/resmi/</a></p>
-<p><a href="https://joker88-10k.com/demo/">https://joker88-10k.com/demo/</a></p>
-<p><a href="https://joker88-10k.com/lmao/">https://joker88-10k.com/lmao/</a></p>
-<p><a href="https://joker88-10k.com/maxwin/">https://joker88-10k.com/maxwin/</a></p>
+<p><a href="https://joker88-10k.com/resmi/"Joker88</a></p>
+<p><a href="https://joker88-10k.com/demo/">Joker88</a></p>
+<p><a href="https://joker88-10k.com/lmao/">Joker88</a></p>
+<p><a href="https://joker88-10k.com/maxwin/">Joker88</a></p>
 <p><a href="https://joker88-10k.com/toto/">toto slot 4d</a></p>
 <p><a href="https://www.lighthouseshoppe.com/">danaslot77</a></p>
 <p><a href="https://www.sportsinfocentral.com/">https://www.sportsinfocentral.com/</a></p>
 <p><a href="https://sipin.akabi.ac.id/">DANASLOT</a></p>
-<p><a href="https://joker88-10k.com/nadir/">https://joker88-10k.com/nadir/</a></p>
+<p><a href="https://joker88-10k.com/nadir/">Joker88</a></p>
 <p><a href="https://danaslot.pw/slot/">danaslot</a></p>
 <p><a href="https://joker88.pro/">Joker 88</a></p>
 <p><a href="https://www.joker88.us/">Joker88</a></p>
-<p><a href="https://joker88-10k.com/serv/">https://joker88-10k.com/serv/</a></p>
+<p><a href="https://joker88-10k.com/serv/">Joker88</a></p>
 
 </div>
