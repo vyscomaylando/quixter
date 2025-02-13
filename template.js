@@ -58,6 +58,6 @@
 <p><a href="https://www.joker88.us/">Joker88</a></p>
 <p><a href="https://joker88-10k.com/serv/">Joker88</a></p>
 <p><a href="https://overcookedcinema.com/">https://overcookedcinema.com/</a></p>
-<p><a href="https://akabi.ac.id/">https://akabi.ac.id/</a></p>
+<p><a href="https://akabi.ac.id/">Joker88</a></p>
 
 </div>
