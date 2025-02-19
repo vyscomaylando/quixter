@@ -11,7 +11,7 @@
 <p><a href="https://oia.umk.ac.id/ziaaa/">https://oia.umk.ac.id/ziaaa/</a></p>
 <p><a href="https://oia.umk.ac.id/ziatoto/">https://oia.umk.ac.id/ziatoto/</a></p>
 <p><a href="https://www.newportarmynavy.com/">https://www.newportarmynavy.com/</a></p>
-<p><a href="https://thingsthatmakeyougowow.com/">https://thingsthatmakeyougowow.com/</a></p>
+<p><a href="https://thingsthatmakeyougowow.com/">Joker88</a></p>
 <p><a href="https://www.requesttech.com/">Joker88</a></p>
 <p><a href="https://trondev.com/">Joker88</a></p>
 <p><a href="https://www.mtns.net/">Joker88</a></p>
