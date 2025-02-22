@@ -50,4 +50,5 @@
 <p><a href="https://danaslot.pw/">slot 77</a></p>
 <p><a href="https://www.ppid.bombanakab.go.id/public/naked/">https://www.ppid.bombanakab.go.id/public/naked/</a></p>
 <p><a href="https://dinsos.bombanakab.go.id/">Slot Gacor</a></p>
+<p><a href="https://www.veil-framework.com/">Situs slot gacor</a></p>
 </div>
