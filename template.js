@@ -59,4 +59,10 @@
 <p><a href="https://www.prizmproductions.com/">slot gacor hari ini</a></p>
 <p><a href="https://www.kevinsnet.com/">https://www.kevinsnet.com/</a></p>
 <p><a href="https://www.keifeeone.com/">Slot depo 5K</a></p>
+<p><a href="https://kkn.umj.ac.id/kartu_peserta/kkn/">slot maxwin</a></p>
+<p><a href="https://kkn.umj.ac.id/kartu_peserta/beasiswa/"> Scatter Hitam/a></p>
+<p><a href="https://kkn.umj.ac.id/kartu_peserta/demo/"> Slot demo/a></p>
+<p><a href="https://kkn.umj.ac.id/kartu_peserta/absen/">slot gacor/a></p>
+<p><a href="https://kkn.umj.ac.id/kartu_peserta/nilai/">situs thailand/a></p>
+<p><a href="https://kkn.umj.ac.id/kartu_peserta/to/"> server thailand/a></p>
 </div>
