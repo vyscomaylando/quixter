@@ -52,4 +52,5 @@
 <p><a href="https://dinsos.bombanakab.go.id/">Slot Gacor</a></p>
 <p><a href="https://www.veil-framework.com/">Situs slot gacor</a></p>
 <p><a href="https://kkn.umj.ac.id/minded/">slot thailand</a></p>
+<p><a href="https://www.yourpreciousyou.com/">slot depo 10k</a></p>
 </div>
