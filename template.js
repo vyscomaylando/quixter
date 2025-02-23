@@ -31,7 +31,7 @@
 <p><a href="https://joker88-5000.com/slot/">joker88</a></p>
 <p><a href="https://joker88-5000.com/pusat/">Joker88</a></p>
 <p><a href="https://www.bridgecommanderfiles.com/">Joker88 slot</a></p>
-<p><a href="https://joker88-10k.com/resmi/"Joker88</a></p>
+<p><a href="https://joker88-10k.com/resmi/">Joker88</a></p>
 <p><a href="https://joker88-10k.com/demo/">Joker88</a></p>
 <p><a href="https://joker88-10k.com/lmao/">Joker88</a></p>
 <p><a href="https://joker88-10k.com/maxwin/">Joker88</a></p>
