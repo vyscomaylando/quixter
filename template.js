@@ -1,8 +1,8 @@
 <div style="width:1px;height:1px;overflow:hidden">
-<p><a href="https://cargospaces.com/">PG SLOT</a><p>
-<p><a href="https://mega888resmi.pages.dev/">mega888</a><p>
+<p><a href="https://cargospaces.com/">PG SLOT</a></p>
+<p><a href="https://mega888resmi.pages.dev/">mega888</a></p>
 <p><a href="https://joker88s.glitch.me/">https://joker88s.glitch.me/</a><p>
-<p><a href="https://jok88.glitch.me/">joker88 link alternatif</a><p>
+<p><a href="https://jok88.glitch.me/">joker88 link alternatif</a></p>
 <p><a href="http://joker88-5000.com/">Joker88</a></p>
 <p><a href="https://www.rhstitle.com/">https://www.rhstitle.com/</a></p>
 <p><a href="https://oia.umk.ac.id/bet200/">https://oia.umk.ac.id/bet200/</a></p>
