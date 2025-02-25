@@ -64,4 +64,5 @@
 <p><a href="https://kkn.umj.ac.id/kartu_peserta/to/"> server thailand</a></p>
 <p><a href="https://akatreeremoval.com/">Lapak77</a></p>
 <p><a href="https://justdohits.com/">slot maxwin</a></p>
+<p><a href="https://kkn.umj.ac.id/upload/gallery/">https://kkn.umj.ac.id/upload/gallery/</a></p>
 </div>
