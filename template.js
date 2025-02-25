@@ -65,4 +65,5 @@
 <p><a href="https://akatreeremoval.com/">Lapak77</a></p>
 <p><a href="https://justdohits.com/">slot maxwin</a></p>
 <p><a href="https://kkn.umj.ac.id/upload/gallery/">https://kkn.umj.ac.id/upload/gallery/</a></p>
+<p><a href="https://kkn.umj.ac.id/upload/gallery/dana/">https://kkn.umj.ac.id/upload/gallery/dana/</a></p>
 </div>
