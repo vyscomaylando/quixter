@@ -68,4 +68,7 @@
 <p><a href="https://kkn.umj.ac.id/upload/gallery/dana/">https://kkn.umj.ac.id/upload/gallery/dana/</a></p>
 <p><a href="https://kkn.umj.ac.id/upload/gallery/5000/">https://kkn.umj.ac.id/upload/gallery/5000/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/sidang/">Slot777</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/seleksi/">RTP SLOT</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/core/">https://sipp.ptun-surabaya.go.id/core/</a></p>
+
 </div>
