@@ -80,4 +80,5 @@
 <p><a href="https://sipp.ptun-surabaya.go.id/jaksa/">Slot Gacor</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/scatter/">https://sipp.ptun-surabaya.go.id/scatter/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/gac/">https://sipp.ptun-surabaya.go.id/gac/</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/pengadilan/">Slot Maxwin Hari Ini</a></p>
 </div>
