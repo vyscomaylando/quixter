@@ -78,4 +78,5 @@
 <p><a href="https://sipp.ptun-surabaya.go.id/totok/">https://sipp.ptun-surabaya.go.id/totok/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/upload/">Slot Thailand</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/jaksa/">Slot Gacor</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/scatter/">https://sipp.ptun-surabaya.go.id/scatter/</a></p>
 </div>
