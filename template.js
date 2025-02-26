@@ -74,4 +74,6 @@
 <p><a href="https://sipp.ptun-surabaya.go.id/sidang/">slot777</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/img/">slot thailand</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/pdf/">slot maxwin</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/plugins/">https://sipp.ptun-surabaya.go.id/plugins/</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/totok/">https://sipp.ptun-surabaya.go.id/totok/</a></p>
 </div>
