@@ -70,5 +70,6 @@
 <p><a href="https://sipp.ptun-surabaya.go.id/sidang/">Slot777</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/seleksi/">RTP SLOT</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/core/">https://sipp.ptun-surabaya.go.id/core/</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/sekertaris/">https://sipp.ptun-surabaya.go.id/sekertaris/</a></p>
 
 </div>
