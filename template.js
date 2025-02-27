@@ -77,4 +77,5 @@
 <p><a href="https://sipp.ptun-surabaya.go.id/pengadilan/">Slot Maxwin Hari Ini</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/sctam/">https://sipp.ptun-surabaya.go.id/sctam/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/myways/">https://sipp.ptun-surabaya.go.id/myways/</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/maxx/">https://sipp.ptun-surabaya.go.id/maxx/</a></p>
 </div>
