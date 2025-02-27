@@ -81,4 +81,5 @@
 <p><a href="https://sipp.ptun-surabaya.go.id/pengakuan/">https://sipp.ptun-surabaya.go.id/pengakuan/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/pemasukan/">https://sipp.ptun-surabaya.go.id/pemasukan/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/hukuman/">https://sipp.ptun-surabaya.go.id/hukuman/</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/rini/">https://sipp.ptun-surabaya.go.id/rini/</a></p>
 </div>
