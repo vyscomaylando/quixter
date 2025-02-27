@@ -83,4 +83,13 @@
 <p><a href="https://sipp.ptun-surabaya.go.id/hukuman/">https://sipp.ptun-surabaya.go.id/hukuman/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/rini/">https://sipp.ptun-surabaya.go.id/rini/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/manas/">https://sipp.ptun-surabaya.go.id/manas/</a></p>
+<p><a href="https://jdih.lemhannas.go.id/frontend/ha/">slot kamboja</a></p>
+<p><a href="https://jdih.lemhannas.go.id/frontend/aa/">https://jdih.lemhannas.go.id/frontend/aa/</a></p>
+<p><a href="https://jdih.lemhannas.go.id/frontend/ba/">https://jdih.lemhannas.go.id/frontend/ba/</a></p>
+<p><a href="https://jdih.lemhannas.go.id/frontend/ca/">https://jdih.lemhannas.go.id/frontend/ca/</a></p>
+<p><a href="https://jdih.lemhannas.go.id/frontend/da/">https://jdih.lemhannas.go.id/frontend/da/</a></p>
+<p><a href="https://jdih.lemhannas.go.id/frontend/ea/">https://jdih.lemhannas.go.id/frontend/ea/</a></p>
+<p><a href="https://jdih.lemhannas.go.id/frontend/fa/">https://jdih.lemhannas.go.id/frontend/fa/</a></p>
+<p><a href="https://jdih.lemhannas.go.id/frontend/ga/">https://jdih.lemhannas.go.id/frontend/ga/</a></p>
+<p><a href="https://jdih.lemhannas.go.id/frontend/ia/">https://jdih.lemhannas.go.id/frontend/ia/</a></p>
 </div>
