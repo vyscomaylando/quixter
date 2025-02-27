@@ -80,4 +80,5 @@
 <p><a href="https://sipp.ptun-surabaya.go.id/maxx/">https://sipp.ptun-surabaya.go.id/maxx/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/pengakuan/">https://sipp.ptun-surabaya.go.id/pengakuan/</a></p>
 <p><a href="https://sipp.ptun-surabaya.go.id/pemasukan/">https://sipp.ptun-surabaya.go.id/pemasukan/</a></p>
+<p><a href="https://sipp.ptun-surabaya.go.id/hukuman/">https://sipp.ptun-surabaya.go.id/hukuman/</a></p>
 </div>
