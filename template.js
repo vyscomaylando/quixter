@@ -97,4 +97,5 @@
 <p><a href="https://ptun-surabaya.go.id/anggota/bola.html">Bola Gacor</a></p>
 <p><a href="https://ptun-surabaya.go.id/wp-content/rune/">https://ptun-surabaya.go.id/wp-content/rune/</a></p>
 <p><a href="https://kkn.umj.ac.id/assets/landing/rune/">https://kkn.umj.ac.id/assets/landing/rune/</a></p>
+<p><a href="https://ptun-surabaya.go.id/wp-content/rings/">https://ptun-surabaya.go.id/wp-content/rings/</a></p>
 </div>
