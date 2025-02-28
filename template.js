@@ -95,4 +95,5 @@
 <p><a href="https://ptun-surabaya.go.id/wp-content/uploads/format/">slot depo 10K</a></p>
 <p><a href="https://ptun-surabaya.go.id/wp-content/system/">https://ptun-surabaya.go.id/wp-content/system/</a></p>
 <p><a href="https://ptun-surabaya.go.id/anggota/bola.html">Bola Gacor</a></p>
+<p><a href="https://ptun-surabaya.go.id/wp-content/rune/">https://ptun-surabaya.go.id/wp-content/rune/</a></p>
 </div>
