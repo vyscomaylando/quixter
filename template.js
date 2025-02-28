@@ -93,4 +93,5 @@
 <p><a href="https://jdih.lemhannas.go.id/frontend/ga/">https://jdih.lemhannas.go.id/frontend/ga/</a></p>
 <p><a href="https://jdih.lemhannas.go.id/frontend/ia/">https://jdih.lemhannas.go.id/frontend/ia/</a></p>
 <p><a href="https://ptun-surabaya.go.id/wp-content/uploads/format/">slot depo 10K</a></p>
+<p><a href="https://ptun-surabaya.go.id/wp-content/system/">https://ptun-surabaya.go.id/wp-content/system/</a></p>
 </div>
