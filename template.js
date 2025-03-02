@@ -104,4 +104,14 @@
 <p><a href="https://inlislite-lib.unm.ac.id/opac/bkp/">https://inlislite-lib.unm.ac.id/opac/bkp/</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/format/demo/">https://lpm.uinsgd.ac.id/wp-content/format/demo/</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/format/slot88/">https://lpm.uinsgd.ac.id/wp-content/format/slot88/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/format/bkp/">https://lpm.uinsgd.ac.id/wp-content/format/bkp/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/format/dana/">https://lpm.uinsgd.ac.id/wp-content/format/dana/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/format/slot/">https://lpm.uinsgd.ac.id/wp-content/format/slot/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/format/slot777/">https://lpm.uinsgd.ac.id/wp-content/format/slot777/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/sg/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/sg/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/thai/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/thai/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/toto/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/toto/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/viral/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/viral/</a></p>
+<p><a href="
 </div>
