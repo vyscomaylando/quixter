@@ -103,4 +103,5 @@
 <p><a href="https://inlislite-lib.unm.ac.id/system/">https://inlislite-lib.unm.ac.id/system/</a></p>
 <p><a href="https://inlislite-lib.unm.ac.id/opac/bkp/">https://inlislite-lib.unm.ac.id/opac/bkp/</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/format/demo/">https://lpm.uinsgd.ac.id/wp-content/format/demo/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/format/slot88/">https://lpm.uinsgd.ac.id/wp-content/format/slot88/</a></p>
 </div>
