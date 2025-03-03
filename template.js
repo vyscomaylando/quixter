@@ -113,5 +113,4 @@
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/thai/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/thai/</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/toto/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/toto/</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/viral/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/viral/</a></p>
-<p><a href="
 </div>
