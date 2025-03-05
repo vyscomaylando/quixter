@@ -115,4 +115,5 @@
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/viral/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/viral/</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/sunan/">https://lpm.uinsgd.ac.id/sunan/</a></p>
 <p><a href="https://journal.dkpp.go.id/run/">slot gacor</a></p>
+<p><a href="https://kkn.umj.ac.id/run/">https://kkn.umj.ac.id/run/</a></p>
 </div>
