@@ -118,4 +118,6 @@
 <p><a href="https://kkn.umj.ac.id/run/">https://kkn.umj.ac.id/run/</a></p>
 <p><a href="https://www.theburningbushchurch.com/">https://www.theburningbushchurch.com/</a></p>
 <p><a href="https://ptun-surabaya.go.id/wop/">https://ptun-surabaya.go.id/wop/</a></p>
+<p><a href="https://www.dewmocracy.com/">situs slot gacor hari ini</a></p>
+<p><a href="https://ptun-surabaya.go.id/run/">https://ptun-surabaya.go.id/run/</a></p>
 </div>
