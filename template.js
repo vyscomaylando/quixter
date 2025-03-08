@@ -106,4 +106,11 @@
 <p><a href="https://ptun-surabaya.go.id/rund/">slot777</a></p>
 <p><a href="https://ptun-surabaya.go.id/run/">xhamster</a></p>
 <p><a href="https://ptun-surabaya.go.id/adventure/">https://ptun-surabaya.go.id/adventure/</a></p>
+<p><a href="https://ptun-surabaya.go.id/viu/">https://ptun-surabaya.go.id/viu/</a></p>
+<p><a href="https://ptun-surabaya.go.id/bstation/">https://ptun-surabaya.go.id/bstation</a></p>
+<p><a href="https://ptun-surabaya.go.id/lk21/">https://ptun-surabaya.go.id/lk21/</a></p>
+<p><a href="https://ptun-surabaya.go.id/cemas/">https://ptun-surabaya.go.id/cemas/</a></p>
+<p><a href="https://ptun-surabaya.go.id/rek/">https://ptun-surabaya.go.id/rek/</a></p>
+<p><a href="https://ptun-surabaya.go.id/otakudesu/">https://ptun-surabaya.go.id/otakudesu/</a></p>
+<p><a href="https://ptun-surabaya.go.id/app/">https://ptun-surabaya.go.id/app/</a></p>
 </div>
