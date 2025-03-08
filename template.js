@@ -105,4 +105,5 @@
 <p><a href="https://ptun-surabaya.go.id/omak/">sbobet</a></p>
 <p><a href="https://ptun-surabaya.go.id/rund/">slot777</a></p>
 <p><a href="https://ptun-surabaya.go.id/run/">xhamster</a></p>
+<p><a href="https://ptun-surabaya.go.id/adventure/">https://ptun-surabaya.go.id/adventure/</a></p>
 </div>
