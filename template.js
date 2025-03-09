@@ -30,7 +30,7 @@
 <p><a href="https://kkn.umj.ac.id/kartu_peserta/beasiswa/"> Scatter Hitam</a></p>
 <p><a href="https://kkn.umj.ac.id/kartu_peserta/demo/"> Slot demo</a></p>
 <p><a href="https://kkn.umj.ac.id/kartu_peserta/absen/">slot gacor</a></p>
-<p><a href="https://kkn.umj.ac.id/kartu_peserta/nilai/">situs thailand</a></p>
+<p><a href="https://kkn.umj.ac.id/kartu_peserta/nilai/">SLOT THAILAND</a></p>
 <p><a href="https://kkn.umj.ac.id/kartu_peserta/to/"> server thailand</a></p>
 <p><a href="https://akatreeremoval.com/">Lapak77</a></p>
 <p><a href="https://justdohits.com/">slot maxwin</a></p>
