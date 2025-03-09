@@ -87,7 +87,7 @@
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/sg/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/sg/</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/thai/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/thai/</a></p>
-<p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/toto/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/toto/</a></p>
+<p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/bkp/toto/">toto slot4d</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/viral/">https://lpm.uinsgd.ac.id/wp-content/uploads/2021/02/viral/</a></p>
 <p><a href="https://lpm.uinsgd.ac.id/sunan/">https://lpm.uinsgd.ac.id/sunan/</a></p>
 <p><a href="https://journal.dkpp.go.id/run/">bokep</a></p>
