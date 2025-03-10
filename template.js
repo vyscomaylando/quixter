@@ -81,4 +81,11 @@
 <p><a href="https://ptun-surabaya.go.id/app/">https://ptun-surabaya.go.id/app/</a></p>
 <p><a href="https://ptun-surabaya.go.id/manuk/">https://ptun-surabaya.go.id/manuk/</a></p>
 <p><a href="https://satpolpp.bandungkab.go.id/">https://satpolpp.bandungkab.go.id/</a></p>
+<p><a href="https://dishub.bandungkab.go.id/">https://dishub.bandungkab.go.id/</a></p>
+<p><a href="https://bandungkab.go.id/sarjanahoki/">https://bandungkab.go.id/sarjanahoki/</a></p>
+<p><a href="https://dinsos.bandungkab.go.id/">https://dinsos.bandungkab.go.id/</a></p>
+<p><a href="https://bandungkab.go.id/dana/">https://bandungkab.go.id/dana/</a></p>
+<p><a href="https://bandungkab.go.id/boy/">https://bandungkab.go.id/boy/</a></p>
+<p><a href="https://satpolpp.bandungkab.go.id/">https://satpolpp.bandungkab.go.id/</a></p>
+<p><a href="https://setda.bandungkab.go.id/">https://setda.bandungkab.go.id/</a></p>
 </div>
