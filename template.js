@@ -88,4 +88,9 @@
 <p><a href="https://bandungkab.go.id/boy/">https://bandungkab.go.id/boy/</a></p>
 <p><a href="https://satpolpp.bandungkab.go.id/">https://satpolpp.bandungkab.go.id/</a></p>
 <p><a href="https://setda.bandungkab.go.id/">https://setda.bandungkab.go.id/</a></p>
+<p><a href="https://bandungkab.go.id/nanges/">https://bandungkab.go.id/nanges/</a></p>
+<p><a href="https://bandungkab.go.id/mj/">https://bandungkab.go.id/mj/</a></p>
+<p><a href="https://bandungkab.go.id/docs/">https://bandungkab.go.id/docs/</a></p>
+<p><a href="https://bandungkab.go.id/sarjanahoki/">https://bandungkab.go.id/sarjanahoki/</a></p>
+<p><a href="https://bandungkab.go.id/slot777">https://bandungkab.go.id/slot777</a></p>
 </div>
