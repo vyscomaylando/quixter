@@ -18,7 +18,7 @@
 <p><a href="https://www.veil-framework.com/">Situs slot gacor</a></p>
 <p><a href="https://www.yourpreciousyou.com/">slot depo 10k</a></p>
 <p><a href="https://xtasyradio.com/">https://xtasyradio.com/</a></p>
-<p><a href="https://www.treasurelanguage.org/">https://www.treasurelanguage.org/</a></p>
+<p><a href="https://www.treasurelanguage.org/">scatter hitam</a></p>
 <p><a href="https://sportgisu.com/">slot maxwin</a></p>
 <p><a href="https://www.prizmproductions.com/">slot gacor hari ini</a></p>
 <p><a href="https://www.kevinsnet.com/">https://www.kevinsnet.com/</a></p>
