@@ -94,4 +94,5 @@
 <p><a href="https://bandungkab.go.id/sarjanahoki/">https://bandungkab.go.id/sarjanahoki/</a></p>
 <p><a href="https://bandungkab.go.id/slot777">https://bandungkab.go.id/slot777</a></p>
 <p><a href="https://findmailorderbride.net/">https://findmailorderbride.net/</a></p>
+<p><a href="https://bappeda.langsakota.go.id/public/thailand/">https://bappeda.langsakota.go.id/public/thailand/</a></p>
 </div>
