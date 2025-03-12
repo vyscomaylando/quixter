@@ -97,4 +97,5 @@
 <p><a href="https://bappeda.langsakota.go.id/public/thailand/">https://bappeda.langsakota.go.id/public/thailand/</a></p>
 <p><a href="https://bappeda.langsakota.go.id/public/200bet/">https://bappeda.langsakota.go.id/public/200bet/</a></p>
 <p><a href="https://bappeda.langsakota.go.id/public/demo/">https://bappeda.langsakota.go.id/public/demo/</a></p>
+<p><a href="https://bappeda.langsakota.go.id/public/dana/">https://bappeda.langsakota.go.id/public/dana/</a></p>
 </div>
