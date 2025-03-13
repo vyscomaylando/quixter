@@ -98,4 +98,7 @@
 <p><a href="https://bappeda.langsakota.go.id/public/200bet/">https://bappeda.langsakota.go.id/public/200bet/</a></p>
 <p><a href="https://bappeda.langsakota.go.id/public/demo/">https://bappeda.langsakota.go.id/public/demo/</a></p>
 <p><a href="https://bappeda.langsakota.go.id/public/dana/">https://bappeda.langsakota.go.id/public/dana/</a></p>
+<p><a href="https://map.ptun-surabaya.go.id/">slot hoki</a></p>
+<p><a href="https://ptun-surabaya.go.id/duar/">https://ptun-surabaya.go.id/duar/</a></p>
+<p><a href="https://ptun-surabaya.go.id/movie/">viu</a></p>
 </div>
