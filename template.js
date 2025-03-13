@@ -100,4 +100,10 @@
 <p><a href="https://map.ptun-surabaya.go.id/">slot hoki</a></p>
 <p><a href="https://ptun-surabaya.go.id/duar/">https://ptun-surabaya.go.id/duar/</a></p>
 <p><a href="https://ptun-surabaya.go.id/movie/">viu</a></p>
+<p><a href="https://www.ptun-surabaya.go.id/88/">SLOT88</a></p>
+<p><a href="https://www.ptun-surabaya.go.id/gallery/"> SLOT ONLINE</a></p>
+<p><a href="https://www.ptun-surabaya.go.id/kia/">https://www.ptun-surabaya.go.id/kia/</a></p>
+<p><a href="https://www.ptun-surabaya.go.id/viral/">  SLOT GACOR</a></p>
+<p><a href="https://www.ptun-surabaya.go.id/duar/"> LK21</a></p>
+<p><a href="https://www.ptun-surabaya.go.id/x500/"> SLOT GACOR x500</a></p>
 </div>
