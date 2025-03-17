@@ -115,4 +115,5 @@
 <p><a href="https://e-library.padangsidimpuankota.go.id/inlislite3/opac/bkp/">https://e-library.padangsidimpuankota.go.id/inlislite3/opac/bkp/</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/inlislite3/opac/slot777/">https://e-library.padangsidimpuankota.go.id/inlislite3/opac/slot777/</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/porn/">https://e-library.padangsidimpuankota.go.id/porn/</a></p>
+<p><a href="https://eagenda.sumbarprov.go.id/etc/index.html">https://eagenda.sumbarprov.go.id/etc/index.html</a></p>
 </div>
