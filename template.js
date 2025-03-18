@@ -116,4 +116,12 @@
 <p><a href="https://e-library.padangsidimpuankota.go.id/inlislite3/opac/slot777/">https://e-library.padangsidimpuankota.go.id/inlislite3/opac/slot777/</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/porn/">https://e-library.padangsidimpuankota.go.id/porn/</a></p>
 <p><a href="https://eagenda.sumbarprov.go.id/etc/index.html">https://eagenda.sumbarprov.go.id/etc/index.html</a></p>
+<p><a href="https://eagenda.sumbarprov.go.id/dana/index.html">https://eagenda.sumbarprov.go.id/dana/index.html</a></p>
+<p><a href="https://eagenda.sumbarprov.go.id/app/index.html">https://eagenda.sumbarprov.go.id/app/index.html</a></p>
+<p><a href="https://eagenda.sumbarprov.go.id/slot88/index.html">https://eagenda.sumbarprov.go.id/slot88/index.html</a></p>
+<p><a href="https://eagenda.sumbarprov.go.id/bkp/index.html">https://eagenda.sumbarprov.go.id/bkp/index.html</a></p>
+<p><a href="https://eagenda.sumbarprov.go.id/omak/index.html">https://eagenda.sumbarprov.go.id/omak/index.html</a></p>
+<p><a href="https://eagenda.sumbarprov.go.id/run/index.html">https://eagenda.sumbarprov.go.id/run/index.html</a></p>
+<p><a href="https://eagenda.sumbarprov.go.id/slot4d/index.html">https://eagenda.sumbarprov.go.id/slot4d/index.html</a></p>
+<p><a href="https://eagenda.sumbarprov.go.id/sarjana777/index.html">https://eagenda.sumbarprov.go.id/sarjana777/index.html</a></p>
 </div>
