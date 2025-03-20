@@ -87,4 +87,5 @@
 <p><a href="https://eagenda.sumbarprov.go.id/slot4d/index.html">https://eagenda.sumbarprov.go.id/slot4d/index.html</a></p>
 <p><a href="https://eagenda.sumbarprov.go.id/sarjana777/index.html">https://eagenda.sumbarprov.go.id/sarjana777/index.html</a></p>
 <p><a href="https://eagenda.sumbarprov.go.id/agenda">slot 10k</a></p>
+<p><a href="http://eagenda.sumbarprov.go.id/laporan/">slot777</a></p>
 </div>
