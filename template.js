@@ -88,4 +88,8 @@
 <p><a href="https://eagenda.sumbarprov.go.id/sarjana777/index.html">https://eagenda.sumbarprov.go.id/sarjana777/index.html</a></p>
 <p><a href="https://eagenda.sumbarprov.go.id/agenda">slot 10k</a></p>
 <p><a href="http://eagenda.sumbarprov.go.id/laporan/">slot777</a></p>
+<p><a href="http://daftar.unwir.ac.id/siswa/mp4/">http://daftar.unwir.ac.id/siswa/mp4/</a></p>
+<p><a href="http://daftar.unwir.ac.id/siswa/sarjanahoki/">Slot777</a></p>
+<p><a href="http://daftar.unwir.ac.id/siswa/77">http://daftar.unwir.ac.id/siswa/77/</a></p>
+<p><a href="http://daftar.unwir.ac.id/siswa/app/">slot demo</a></p>
 </div>
