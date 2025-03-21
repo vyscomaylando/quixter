@@ -92,4 +92,9 @@
 <p><a href="http://daftar.unwir.ac.id/siswa/sarjanahoki/">Slot777</a></p>
 <p><a href="http://daftar.unwir.ac.id/siswa/77">http://daftar.unwir.ac.id/siswa/77/</a></p>
 <p><a href="http://daftar.unwir.ac.id/siswa/app/">slot demo</a></p>
+<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/dana/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/dana/</a></p>
+<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/4d/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/4d/</a></p>
+<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/gacor/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/gacor/</a></p>
+<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/menang/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/menang/</a></p>
+<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/thailand/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/thailand/</a></p>
 </div>
