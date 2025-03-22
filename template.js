@@ -106,4 +106,5 @@
 <p><a href="http://daftar.unwir.ac.id/siswa/sarjanahoki/">http://daftar.unwir.ac.id/siswa/sarjanahoki/</a></p>
 <p><a href="http://daftar.unwir.ac.id/siswa/nkri/">slot 5000</a></p>
 <p><a href="http://sia.stikespanritahusada.ac.id:8123/gacha/">http://sia.stikespanritahusada.ac.id:8123/gacha/</a></p>
+<p><a href="https://bappeda.langsakota.go.id/public/nkri/index.html">slot777</a></p>
 </div>
