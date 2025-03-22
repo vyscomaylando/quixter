@@ -71,7 +71,6 @@
 <p><a href="https://e-library.padangsidimpuankota.go.id/sarjanahoki/">https://e-library.padangsidimpuankota.go.id/sarjanahoki/</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/melon/">https://e-library.padangsidimpuankota.go.id/melon/</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/oyen/">https://e-library.padangsidimpuankota.go.id/oyen/</a></p>
-<p><a href="https://e-library.padangsidimpuankota.go.id/melon/">https://e-library.padangsidimpuankota.go.id/oyen/</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/toto/">TOTO SLOT</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/inlislite3/opac/slot/">SLOT88</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/inlislite3/opac/bkp/">https://e-library.padangsidimpuankota.go.id/inlislite3/opac/bkp/</a></p>
