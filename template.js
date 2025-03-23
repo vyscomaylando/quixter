@@ -69,4 +69,5 @@
 <p><a href="https://bappeda.langsakota.go.id/public/nkri/index.html">slot777</a></p>
 <p><a href="https://bappeda.langsakota.go.id/public/data/index.html">https://bappeda.langsakota.go.id/public/data/index.html</a></p>
 <p><a href="https://bappeda.langsakota.go.id/public/config/index.php">https://bappeda.langsakota.go.id/public/config/index.php</a></p>
+<p><a href="https://bappeda.langsakota.go.id/public/namthip/index.php">https://bappeda.langsakota.go.id/public/namthip/index.php</a></p>
 </div>
