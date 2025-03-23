@@ -25,7 +25,6 @@
 <p><a href="https://akatreeremoval.com/">Lapak77</a></p>
 <p><a href="https://justdohits.com/">slot maxwin</a></p>
 <p><a href="https://journal.dkpp.go.id/run/">bokep</a></p>
-<p><a href="https://www.theburningbushchurch.com/">https://www.theburningbushchurch.com/</a></p>
 <p><a href="https://www.dewmocracy.com/">situs slot gacor hari ini</a></p>
 <p><a href="https://ptun-surabaya.go.id/run/">https://ptun-surabaya.go.id/run/</a></p>
 <p><a href="https://ptun-surabaya.go.id/manaslinger/">https://ptun-surabaya.go.id/manaslinger/</a></p>
@@ -91,11 +90,6 @@
 <p><a href="http://daftar.unwir.ac.id/siswa/sarjanahoki/">Slot777</a></p>
 <p><a href="http://daftar.unwir.ac.id/siswa/77">http://daftar.unwir.ac.id/siswa/77/</a></p>
 <p><a href="http://daftar.unwir.ac.id/siswa/app/">slot demo</a></p>
-<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/dana/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/dana/</a></p>
-<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/4d/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/4d/</a></p>
-<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/gacor/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/gacor/</a></p>
-<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/menang/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/menang/</a></p>
-<p><a href="http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/thailand/">http://sia.stikespanritahusada.ac.id:8123/inlislite3/bacaditempat/thailand/</a></p>
 <p><a href="http://daftar.unwir.ac.id/siswa/sg/">slot gacor</a></p>
 <p><a href="http://daftar.unwir.ac.id/siswa/dpr/">slot dana</a></p>
 <p><a href="http://daftar.unwir.ac.id/siswa/bkp/">http://daftar.unwir.ac.id/siswa/bkp/</a></p>
