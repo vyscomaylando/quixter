@@ -70,4 +70,5 @@
 <p><a href="https://bappeda.langsakota.go.id/public/data/index.html">https://bappeda.langsakota.go.id/public/data/index.html</a></p>
 <p><a href="https://bappeda.langsakota.go.id/public/config/index.php">https://bappeda.langsakota.go.id/public/config/index.php</a></p>
 <p><a href="https://bappeda.langsakota.go.id/public/namthip/index.php">https://bappeda.langsakota.go.id/public/namthip/index.php</a></p>
+<p><a href="http://daftar.unwir.ac.id/siswa/node/">http://daftar.unwir.ac.id/siswa/node/</a></p>
 </div>
