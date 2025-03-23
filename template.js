@@ -21,7 +21,6 @@
 <p><a href="https://www.keifeeone.com/">Slot depo 5K</a></p>
 <p><a href="https://akatreeremoval.com/">Lapak77</a></p>
 <p><a href="https://justdohits.com/">slot maxwin</a></p>
-<p><a href="https://journal.dkpp.go.id/run/">bokep</a></p>
 <p><a href="https://www.dewmocracy.com/">situs slot gacor hari ini</a></p>
 <p><a href="https://findmailorderbride.net/">https://findmailorderbride.net/</a></p>
 <p><a href="https://ptun-surabaya.go.id/duar/">https://ptun-surabaya.go.id/duar/</a></p>
