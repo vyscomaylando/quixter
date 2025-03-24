@@ -71,4 +71,12 @@
 <p><a href="https://bappeda.langsakota.go.id/public/config/index.php">https://bappeda.langsakota.go.id/public/config/index.php</a></p>
 <p><a href="https://bappeda.langsakota.go.id/public/namthip/index.php">https://bappeda.langsakota.go.id/public/namthip/index.php</a></p>
 <p><a href="http://daftar.unwir.ac.id/siswa/node/">http://daftar.unwir.ac.id/siswa/node/</a></p>
+<p><a href="https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/otdeng/">https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/otdeng/</a></p>
+<p><a href="https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/namthip/">https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/namthip/</a></p>
+<p><a href="https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/sarjana777/">https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/sarjana777/</a></p>
+<p><a href="https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/bapenda/">https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/bapenda/</a></p>
+<p><a href="https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/bkp/">https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/bkp/</a></p>
+<p><a href="https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/voc/">https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/voc/</a></p>
+<p><a href="https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/run/">https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/run/</a></p>
+<p><a href="https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/user/">https://web-bapenda.sumbatimurkab.go.id/wp-content/plugins/user/</a></p>
 </div>
