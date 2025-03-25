@@ -22,15 +22,6 @@
 <p><a href="https://akatreeremoval.com/">Lapak77</a></p>
 <p><a href="https://justdohits.com/">slot maxwin</a></p>
 <p><a href="https://www.dewmocracy.com/">situs slot gacor hari ini</a></p>
-<p><a href="https://findmailorderbride.net/">https://findmailorderbride.net/</a></p>
-<p><a href="https://ptun-surabaya.go.id/duar/">https://ptun-surabaya.go.id/duar/</a></p>
-<p><a href="https://ptun-surabaya.go.id/movie/">viu</a></p>
-<p><a href="https://www.ptun-surabaya.go.id/88/">SLOT88</a></p>
-<p><a href="https://www.ptun-surabaya.go.id/gallery/"> SLOT ONLINE</a></p>
-<p><a href="https://www.ptun-surabaya.go.id/kia/">https://www.ptun-surabaya.go.id/kia/</a></p>
-<p><a href="https://www.ptun-surabaya.go.id/viral/">  SLOT GACOR</a></p>
-<p><a href="https://www.ptun-surabaya.go.id/duar/"> LK21</a></p>
-<p><a href="https://www.ptun-surabaya.go.id/x500/"> SLOT GACOR x500</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/sarjanahoki/">https://e-library.padangsidimpuankota.go.id/sarjanahoki/</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/melon/">https://e-library.padangsidimpuankota.go.id/melon/</a></p>
 <p><a href="https://e-library.padangsidimpuankota.go.id/oyen/">https://e-library.padangsidimpuankota.go.id/oyen/</a></p>
