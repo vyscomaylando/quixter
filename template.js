@@ -22,14 +22,6 @@
 <p><a href="https://akatreeremoval.com/">Lapak77</a></p>
 <p><a href="https://justdohits.com/">slot maxwin</a></p>
 <p><a href="https://www.dewmocracy.com/">situs slot gacor hari ini</a></p>
-<p><a href="https://e-library.padangsidimpuankota.go.id/sarjanahoki/">https://e-library.padangsidimpuankota.go.id/sarjanahoki/</a></p>
-<p><a href="https://e-library.padangsidimpuankota.go.id/melon/">https://e-library.padangsidimpuankota.go.id/melon/</a></p>
-<p><a href="https://e-library.padangsidimpuankota.go.id/oyen/">https://e-library.padangsidimpuankota.go.id/oyen/</a></p>
-<p><a href="https://e-library.padangsidimpuankota.go.id/toto/">TOTO SLOT</a></p>
-<p><a href="https://e-library.padangsidimpuankota.go.id/inlislite3/opac/slot/">SLOT88</a></p>
-<p><a href="https://e-library.padangsidimpuankota.go.id/inlislite3/opac/bkp/">https://e-library.padangsidimpuankota.go.id/inlislite3/opac/bkp/</a></p>
-<p><a href="https://e-library.padangsidimpuankota.go.id/inlislite3/opac/slot777/">https://e-library.padangsidimpuankota.go.id/inlislite3/opac/slot777/</a></p>
-<p><a href="https://e-library.padangsidimpuankota.go.id/porn/">https://e-library.padangsidimpuankota.go.id/porn/</a></p>
 <p><a href="https://eagenda.sumbarprov.go.id/etc/index.html">https://eagenda.sumbarprov.go.id/etc/index.html</a></p>
 <p><a href="https://eagenda.sumbarprov.go.id/dana/index.html">https://eagenda.sumbarprov.go.id/dana/index.html</a></p>
 <p><a href="https://eagenda.sumbarprov.go.id/app/index.html">https://eagenda.sumbarprov.go.id/app/index.html</a></p>
