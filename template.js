@@ -58,4 +58,5 @@
 <p><a href="https://ft.budiluhur.ac.id/">slot gacor</a></p>
 <p><a href="https://iccdt.budiluhur.ac.id/">https://iccdt.budiluhur.ac.id/</a></p>
 <p><a href="https://biroorganisasi.sumbarprov.go.id/fler/">https://biroorganisasi.sumbarprov.go.id/fler/</a></p>
+<p><a href="https://suryanusantara.ac.id/">slot gacor</a></p>
 </div>
