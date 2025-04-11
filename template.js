@@ -7,4 +7,6 @@
 <p><a href="https://biroorganisasi.sumbarprov.go.id/agenda/">https://biroorganisasi.sumbarprov.go.id/agenda/</a></p>
 <p><a href="https://greenupload.com/">lapak77</a></p>
 <p><a href="https://www.twilightlexiconblog.com/">lapak77</a></p>
+<p><a href="https://natural-speech-technology.org/">lapak77</a></p>
+<p><a href="https://soetrust.org/">lapak77</a></p>
 </div>
