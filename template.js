@@ -13,4 +13,5 @@
 <p><a href="https://www.utah-apa.org/">https://www.utah-apa.org/</a></p>
 <p><a href="https://whatsgbplus.com/">lapak77</a></p>
 <p><a href="https://suryanusantara.ac.id/">lapak77</a></p>
+<p><a href="https://lapak77.pro/">https://lapak77.pro/</a></p>
 </div>
