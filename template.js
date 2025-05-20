@@ -4,7 +4,6 @@
 <p><a href="https://alnakhlah.org/">lapak77</a></p>
 <p><a href="https://pedieosfertilizationcenter.com/">lapak77</a></p>
 <p><a href="https://soikeotoinay.net/">lapak77</a></p>
-<p><a href="https://biroorganisasi.sumbarprov.go.id/agenda/">https://biroorganisasi.sumbarprov.go.id/agenda/</a></p>
 <p><a href="https://greenupload.com/">lapak77</a></p>
 <p><a href="https://www.twilightlexiconblog.com/">lapak77</a></p>
 <p><a href="https://natural-speech-technology.org/">lapak77</a></p>
@@ -15,6 +14,6 @@
 <p><a href="https://suryanusantara.ac.id/">lapak77</a></p>
 <p><a href="https://lapak77.pro/">https://lapak77.pro/</a></p>
 <p><a href="https://lapak-77.com/">lapak77</a></p>
-<p><a href="https://www.ntp.gov.bd/">mega888</a></p>
 <p><a href="https://kanimsurabaya.kemenkumham.go.id/">slot777</a></p>
+<p><a href="https://lapak77mobile.com/">https://lapak77mobile.com/</a></p>
 </div>
