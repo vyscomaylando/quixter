@@ -14,6 +14,5 @@
 <p><a href="https://suryanusantara.ac.id/">lapak77</a></p>
 <p><a href="https://lapak77.pro/">https://lapak77.pro/</a></p>
 <p><a href="https://lapak-77.com/">lapak77</a></p>
-<p><a href="https://kanimsurabaya.kemenkumham.go.id/">sukses terus bro</a></p>
 <p><a href="https://lapak77mobile.com/">https://lapak77mobile.com/</a></p>
 </div>
