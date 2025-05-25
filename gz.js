@@ -5,4 +5,5 @@
 <p><a href="https://suryanusantara.ac.id/">slot gacor</a></p>
 <p><a href="https://kanimsurabaya.kemenkumham.go.id/">https://kanimsurabaya.kemenkumham.go.id/</a></p>
 <p><a href="https://wonokerto.desa.id/sresmi/">https://wonokerto.desa.id/sresmi/</a></p>
+<p><a href="https://kapitanproperty.com/">slot 10k</a></p>
 </div>
