@@ -804,10 +804,10 @@
                     <a class="highlight" target="_blank" href="//yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                 </div>
                 <div class="top-links-item  white" id="anonLogin">
-                  <a class="white" href="https://shortlinks.dev/u138/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
+                  <a class="white" href="https://suryanusantaraa.pages.dev/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
                 </div>
                 <div class="top-links-item  white" id="anonSignup">
-                  <a class="white" href="https://shortlinks.dev/u138/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
+                  <a class="white" href="https://suryanusantaraa.pages.dev/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
                 </div>
                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                   <span id="myAccountTrigger" class="grey"></span>
@@ -3969,23 +3969,23 @@ window.onload = function() {
   <section>
     <div class="nav">
         <div class="menu">
-            <a href="https://shortlinks.dev/u138/" target="_blank" rel="noreferrer noopener">
+            <a href="https://suryanusantaraa.pages.dev/" target="_blank" rel="noreferrer noopener">
                 <img src="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/e35a60ac-374f-41f7-ddae-fa6c49499d00/amp"
                     alt="Beranda"></img>
                 HOME
             </a>
-            <a href="https://shortlinks.dev/u138/" target="_blank" rel="noreferrer noopener">
+            <a href="https://suryanusantaraa.pages.dev/" target="_blank" rel="noreferrer noopener">
                 <img class="center"
                     src="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/e6c7701e-1166-4f9d-7cbf-3ed67d034200/amp"
                     alt="Login"></img>
                 LOGIN
             </a>
-            <a href="https://shortlinks.dev/u138/" target="_blank" rel="noreferrer noopener">
+            <a href="https://suryanusantaraa.pages.dev/" target="_blank" rel="noreferrer noopener">
                 <img src="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/ca4f3534-e2a6-4c84-2a35-14e3517f7100/amp"
                     alt="Permainan"></img>
                 GAME
             </a>
-            <a href="https://shortlinks.dev/u138/" target="_blank" rel="noreferrer noopener">
+            <a href="https://suryanusantaraa.pages.dev/" target="_blank" rel="noreferrer noopener">
                 <img src="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/83433140-cf2f-4a4a-5472-2cca00806500/amp"
                     alt="Bonus"></img>
                 PROMO
