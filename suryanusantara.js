@@ -22,7 +22,7 @@
   <link rel="canonical" href="https://suryanusantara.ac.id/" />
   <meta name="google-site-verification" content="gAFcnIZrT8RUyxcHXr05X_ayXAoAkJ0dBgEj3382h2M" />
   <meta name='dmca-site-verification' content='UzVhUlI2UG1Rekp1WWpoVTAyYjZBMm5rc25FN2xENDl0YVNRUG41Yms5MD01' />
-  <link rel="amphtml" href="https://suryanusantara.pages.dev/" />
+  <link rel="amphtml" href="https://suryanusantaraa.pages.dev/" />
   <!-- start preload -->
   <link rel="preload" href="https://imagedelivery.net/mCoIuG3fsH3BDrNLF1bLGA/a1ab32cf-3424-40ff-b939-255a8695b600/amp" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
