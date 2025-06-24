@@ -20,4 +20,5 @@
 <p><a href="https://kapitanproperty.com/">slot depo 10k</a></p>
 <p><a href="https://qqstar.it.com/">https://qqstar.it.com/</a></p>
 <p><a href="https://xrp89.com/">https://xrp89.com/</a></p>
+<p><a href="https://caskanja.net/">tarzan88</a></p>
 </div>
