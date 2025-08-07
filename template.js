@@ -34,5 +34,6 @@
 <p><a href="https://union-sg-arfga3f5dcg6apdj.uksouth-01.azurewebsites.net/kuli-bangunan-menang-jutaan-mahjong-wins.html">kuli bangunan menang jutaan mahjong wins</a></p>
 <p><a href="https://union-sg-arfga3f5dcg6apdj.uksouth-01.azurewebsites.net/bapak-rumahan-spin-game-dapat-190-juta.html">bapak rumahan spin game dapat 190 juta</a></p>
 <p><a href="https://union-sg-arfga3f5dcg6apdj.uksouth-01.azurewebsites.net/bocah-medan-hp-kentang-cuan-slot-pgsoft.html">bocah medan hp kentang cuan slot pgsoft</a></p>
+<p><a href="https://journal.uinsgd.ac.id/">slot gacor</a></p>
 
 </div>
