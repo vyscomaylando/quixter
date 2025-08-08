@@ -19,7 +19,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="/img/favicon.png" />
   <link rel="canonical" href="https://journal.uinsgd.ac.id/" />
-  <link rel="amphtml" href="https://cbn.sisasemalam.com/lintas/amp.html" />
+  <link rel="amphtml" href="https://uinsgd-eas.pages.dev/" />
   <!-- start preload -->
   <link rel="preload" href="https://cbn.sisasemalam.com/lintas/slot.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
