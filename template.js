@@ -5,4 +5,9 @@
 <p><a href="https://lintas808h.com/">lintas808</a></p>
 <p><a href="https://elearning.staisni.ac.id/">LINTAS808</a></p>
 <p><a href="https://pasca.iainlhokseumawe.ac.id/">LINTAS808</a></p>
+<p><a href="https://efin.sdtexmacosemarang.sch.id/">LINTAS808</a></p>
+<p><a href="https://sman66-jkt.sch.id/">LINTAS808</a></p>
+<p><a href="https://journal.staisni.ac.id/">lintas808</a></p>
+<p><a href="https://bkpsdm.langsakota.go.id/layanan/kepegawaian">slot gacor</a></p>
+<p><a href="https://sapa.uinsgd.ac.id/">lintas808</a></p>
 </div>
