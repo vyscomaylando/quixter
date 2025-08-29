@@ -8,6 +8,6 @@
 <p><a href="https://efin.sdtexmacosemarang.sch.id/">LINTAS808</a></p>
 <p><a href="https://sman66-jkt.sch.id/">LINTAS808</a></p>
 <p><a href="https://journal.staisni.ac.id/">lintas808</a></p>
-<p><a href="https://bkpsdm.langsakota.go.id/layanan/kepegawaian">slot gacor</a></p>
+<p><a href="https://bkpsdm.langsakota.go.id/">slot gacor</a></p>
 <p><a href="https://sapa.uinsgd.ac.id/">lintas808</a></p>
 </div>
