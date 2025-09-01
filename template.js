@@ -12,4 +12,5 @@
 <p><a href="https://journal.staisni.ac.id/">lintas808</a></p>
 <p><a href="https://bkpsdm.langsakota.go.id/">slot gacor</a></p>
 <p><a href="https://sapa.uinsgd.ac.id/">lintas808</a></p>
+<p><a href="https://iro.nusaputra.ac.id/">https://iro.nusaputra.ac.id/</a></p>
 </div>
