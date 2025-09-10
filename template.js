@@ -3,4 +3,6 @@
 <p><a href="https://lintas808.biz/">https://lintas808.biz/</a></p>
 <p><a href="https://lintas808h.com/">lintas808</a></p>
 <p><a href="https://skb.salatiga.go.id/">https://skb.salatiga.go.id/</a></p>
+<p><a href="https://linklist.bio/lintas808/">https://linklist.bio/lintas808/</a></p>
+<p><a href="https://heylink.me/lintas808/">https://heylink.me/lintas808/</a></p>
 </div>
