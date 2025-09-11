@@ -6,4 +6,5 @@
 <p><a href="https://linklist.bio/lintas808/">https://linklist.bio/lintas808/</a></p>
 <p><a href="https://heylink.me/lintas808/">https://heylink.me/lintas808/</a></p>
 <p><a href="https://www.policeroadstransport.fs.gov.za/wp-content/cache/lintas808/">https://www.policeroadstransport.fs.gov.za/wp-content/cache/lintas808/</a></p>
+<p><a href="https://bkpsdm.langsakota.go.id/">https://bkpsdm.langsakota.go.id/</a></p>
 </div>
