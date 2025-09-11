@@ -11,4 +11,5 @@
 <p><a href="https://bkpsdm.langsakota.go.id/">https://bkpsdm.langsakota.go.id/</a></p>
 <p><a href="https://dinkes.langsakota.go.id/">https://dinkes.langsakota.go.id/</a></p>
 <p><a href="https://www.cogta.fs.gov.za/wp-content/wflogs/sv388/">https://www.cogta.fs.gov.za/wp-content/wflogs/sv388/</a></p>
+<p><a href="https://efin.sdtexmacosemarang.sch.id/">https://efin.sdtexmacosemarang.sch.id/</a></p>
 </div>
