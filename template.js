@@ -16,4 +16,5 @@
 <p><a href="https://sdtexmacosemarang.sch.id/">https://sdtexmacosemarang.sch.id/</a></p>
 <p><a href="https://lppm.umaha.ac.id/">https://lppm.umaha.ac.id/</a></p>
 <p><a href="https://about.me/lintas808">https://about.me/lintas808</a></p>
+<p><a href="http://lintas808gacor.com/">lintas808</a></p>
 </div>
