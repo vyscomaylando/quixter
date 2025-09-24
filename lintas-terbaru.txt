@@ -564,7 +564,33 @@
     </div>
 </nav></div>
 
-
+<style>
+  .n-columns-2 {
+    width: 100vw;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    font-weight: 700;
+  }
+  .n-columns-2 a {
+    text-align: center;
+  }
+  .login, .register {
+    color: #fff;
+    padding: 13px 10px;
+  }
+  .login, .login-button {
+    background: linear-gradient(to top, #ff7c00 0%, #ffd900 100%);
+    border: 2px solid #ffffff;
+  }
+  .register, .register-button {
+    background: linear-gradient(to top, #ff7c00 0%, #ffd900 100%);
+    border: 2px solid #ffffff;
+  }
+ </style>
+<div class="n-columns-2" style="font-size: 20px;">
+<a href="https://loginlintas808.com/" rel="nofollow noreferrer" class="login">DAFTAR</a>
+<a href="https://loginlintas808.com/" rel="nofollow noreferrer" class="register">MASUK</a>
+ </div>
 
 <div class="wt-overlay wt-z-index-4" aria-hidden="true" data-ui="overlay"></div>
 
@@ -1001,210 +1027,11 @@ if (clientloggerIsEnabled) {
             <button class="wt-btn wt-btn--icon wt-btn--tertiary wt-btn--light wt-overlay__close-icon" data-wt-overlay-close aria-label="Close">
                 <span class="etsy-icon wt-icon--smaller"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
             </button>
-            <div data-report-item-form-container class="wt-display-none">
-    <div class="wt-overlay__header report-item-step">
-        <h2 class="wt-text-heading" id="report-item-overlay-title">What’s wrong with this listing?</h2>
-    </div>
-    <div class="wt-overlay__header report-item-step wt-display-none">
-        <h3 class="wt-text-heading" id="report-item-overlay-title-more">Add more details</h3>
-        <h3 class="wt-text-body-01 wt-mt-xs-3">Share more specifics to help us review this item and protect our marketplace.</h3>
-    </div>
-    <form data-report-item-form
-          action="/add_report.php"
-          method="post">
-        <div class="report-item-step">
-            <div class="wt-select wt-mb-xs-3">
-                <select class="wt-select__element"
-                        id="report-item-choices"
-                        data-report-item-choices>
-                    <optgroup>
-                        <option value="default">Choose a reason…</option>
-                        <option value="order-problem">There’s a problem with my order</option>
-                        <option value="ip-policy">It uses my intellectual property without permission</option>
-                        <option value="flag-item">I don’t think it meets Etsy’s policies</option>
-                    </optgroup>
-                </select>
-                <label for="report-item-choices" class="wt-screen-reader-only">Choose a reason…</label>
-            </div>
-            <div data-report-choice="order-problem" id="order-problem" class="wt-display-none">
-                <p class="wt-mb-xs-2 prose">The first thing you should do is contact the seller directly.</p>
-                <p class="wt-mb-xs-2 ip-policy prose">If you’ve already done that, your item hasn’t arrived, or it’s not as described, you can report that to Etsy by opening a case.</p>
-                <p class="wt-mb-xs-2 prose">
-                    <a href="/help/article/5307" target="_blank">
-                        Report a problem with an order
-                    </a>
-                </p>
-            </div>
-            <div data-report-choice="ip-policy" id="ip-policy" class="wt-display-none">
-                <p class="wt-mb-xs-2 prose">We take intellectual property concerns very seriously, but many of these problems can be resolved directly by the parties involved. We suggest contacting the seller directly to respectfully share your concerns.</p>
-                <p class="wt-mb-xs-2 prose">If you’d like to file an allegation of infringement, you’ll need to follow the process described in our <a href='/legal/ip' target='_blank'>Copyright and Intellectual Property Policy</a>.</p>
-            </div>
-            <div data-report-choice="flag-item" id="flag-item" class="wt-display-none">
-                <div class="wt-mb-xs-2">
-                    <a href="/legal/sellers#allowed" target="_blank">
-                        Review how we define handmade, vintage and supplies
-                    </a>
-                </div>
-                <div class="wt-mb-xs-2">
-                    <a href="/legal/prohibited" target="_blank">
-                        See a list of prohibited items and materials
-                    </a>
-                </div>
-                <div class="wt-mb-xs-4">
-                    <a href="/legal/policy/listing-mature-content-correctly/242665462117" target="_blank">
-                        Read our mature content policy
-                    </a>
-                </div>
-                <div data-report-reason class="wt-validation">
-                    <fieldset class="wt-mb-xs-4">
-                        <legend class="wt-label wt-mb-xs-2">Tell us why you're reporting this item</legend>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="not_handmade_vintage_or_craft"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_not_handmade_vintage_or_craft"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_CSV_MEMBER_FLAG">
-                                <label for="flag_not_handmade_vintage_or_craft">It's not handmade, vintage, or craft supplies</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="pornographic"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_pornographic"
-                                        name="flag_type_mnemonic"
-                                        value="OC_PORNOGRAPHY">
-                                <label for="flag_pornographic">It's pornographic</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="hate_speech_or_harassment"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_hate_speech_or_harassment"
-                                        name="flag_type_mnemonic"
-                                        value="OC_HATE_VIOLENT_HARMFUL">
-                                <label for="flag_hate_speech_or_harassment">It's hate speech or harassment</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="minor_safety"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_minor_safety"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_MINOR_SAFETY">
-                                <label for="flag_minor_safety">It's a threat to minor safety</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="violence_or_self_harm"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_violence_or_self_harm"
-                                        name="flag_type_mnemonic"
-                                        value="OC_HATE_VIOLENT_HARMFUL">
-                                <label for="flag_violence_or_self_harm">It promotes violence or self-harm</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="dangerous_or_hazardous"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_dangerous_or_hazardous"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_PROHIBITED">
-                                <label for="flag_dangerous_or_hazardous">It's dangerous or hazardous</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="violates_law"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_violates_law"
-                                        name="flag_type_mnemonic"
-                                        value="CC_REPORTED_ILLEGAL_CONTENT">
-                                <label for="flag_violates_law">It's violating a specific law or regulation</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="violates_not_listed_policy"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_violates_not_listed_policy"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_PROHIBITED">
-                                <label for="flag_violates_not_listed_policy">It violates a policy that's not listed here</label>
-                            </div>
-                        <div data-error="no-report-reason" id="no-report-reason" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical">Please choose a reason</div>
-                    </fieldset>
-                </div>
-            </div>
-        </div>
-        <div class="report-item-step wt-display-none">
-            <div data-report-comment class="wt-validation" tabindex="0">
-                <label class="wt-screen-reader-only" for="report-item-reason">Include anything else we should know about this item</label>
-                <textarea id="report-item-reason" data-report-comment-input name="reason" class="wt-textarea" placeholder="Include anything else we should know about this item"></textarea>
-                <div data-error="no-report-comment" id="no-report-comment" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical wt-mt-xs-2">
-                    <span class="wt-icon wt-sem-text-on-surface-dark wt-validation__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M11 6v8h2V6zm1 9.25a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5"/></svg></span>&nbsp;Make sure to add more details.
-                </div>
-                <div data-error="comment-min-length-illegal-content" id="comment-min-length-illegal-content" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical wt-mt-xs-2">
-                    <span class="wt-icon wt-sem-text-on-surface-dark wt-validation__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M11 6v8h2V6zm1 9.25a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5"/></svg></span>&nbsp;Add more details, including a law or regulation name (10 characters min).
-                </div>
-            </div>
-        </div>
-        <div data-report-bonafide class="wt-mt-xs-2 wt-mb-xs-2 wt-sem-text-secondary wt-display-none">
-            By submitting this report, you confirm the information and claims in this form are accurate.
-        </div>
-        <div data-report-item-overlay-footer class="wt-overlay__footer wt-pt-xs-0 wt-display-none" id="overlay-footer">
-            <input type="hidden" name="_nnc" value="3:1758702044:3UfXq7Zpf-peUoq7Bs8jR7Q9jnkC:e510328ccb5ebe577879b5d6b179dc7f7f5f40313dc8e4881785d730ae9cab0b" class="hidden csrf" />
-            <input type="hidden"
-                   name="target_id"
-                   value="1626036047"/>
-            <input type="hidden"
-                   name="target_type"
-                   value="listing"/>
-            <input type='hidden'
-                   name='send_report'
-                   value='true'/>
-            <input type='hidden'
-                   name='ref'
-                   value="sc_gallery-1-10"/>
-            <input type='hidden'
-                   name='platform'
-                   value="web"/>
-            <input type='hidden'
-                   name='search_query'
-                   value="indonesia"/>
-            <div class="wt-overlay__footer__cancel">
-                <button data-report-back-button type="button"
-                        class="wt-btn wt-btn-transparent report-item-step wt-display-none">
-                    Go back
-                </button>
-            </div>
-            <div class="wt-overlay__footer__action">
-                <button data-report-next-button type="button"
-                        class="wt-btn wt-btn--primary report-item-step">
-                    Next
-                </button>
-                <button data-report-submit-button type="submit"
-                        class="wt-btn wt-btn--primary report-item-step wt-display-none">
-                    Submit report
-                </button>
-            </div>
-        </div>
-    </form>
-</div>
+			
+			
+			
+			
+
         </div>
     </div>
                         </div>
@@ -2839,7 +2666,7 @@ To sign up for the newsletter, please send an email to egan.newsletter@gmail.com
     </div>
 
     <p id="review-preview-toggle-01758702044" class="wt-text-truncate--multi-line wt-break-word wt-text-body" >
-                    As described, great quality thanks 
+                    Slot zeus nya bener bener sangat gacor !!
 
     </p>
 </div>
@@ -2952,7 +2779,7 @@ To sign up for the newsletter, please send an email to egan.newsletter@gmail.com
     </div>
 
     <p id="review-preview-toggle-11758702044" class="wt-text-truncate--multi-line wt-break-word wt-text-body" >
-                    Fast, exactly as described thank you 
+                    Slot gacor paling gampang menang ga ada yang bisa ngalahin 
 
     </p>
 </div>
@@ -3065,7 +2892,7 @@ To sign up for the newsletter, please send an email to egan.newsletter@gmail.com
     </div>
 
     <p id="review-preview-toggle-21758702044" class="wt-text-truncate--multi-line wt-break-word wt-text-body" >
-                    Love the coin! Great shopping experience. 
+                    Provider slot88 memang sangat resmi transaksi sangat cepat
 
     </p>
 </div>
@@ -3177,7 +3004,7 @@ To sign up for the newsletter, please send an email to egan.newsletter@gmail.com
     </div>
 
     <p id="review-preview-toggle-31758702044" class="wt-text-truncate--multi-line wt-break-word wt-text-body" >
-                    Quality workmanship!! Amazing how they fit all that content on a smallish coin!! So helpful to me spiritually!! Item as described & quickly shipped w/ utmost care. By far exceeded my expectations!! Great value for the money paid! Peter even included some free currency - much appreciated!! A++++++++++ 
+                    Terimakasih saya sudah wd 20 juta dari situs lintas808 hari ini.
 
     </p>
 </div>
@@ -3360,13 +3187,13 @@ To sign up for the newsletter, please send an email to egan.newsletter@gmail.com
 </div>
     
     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://www.etsy.com/?ref=breadcrumb_listing">Lintas808</a>
+        <a href="https://journal.staisni.ac.id/">Lintas808</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://www.etsy.com/c/art-and-Slot Online Gacor?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=indonesia&ref=breadcrumb_listing&plkey=079651a5f8f0370f403414780f213b9a582f9722%3A1626036047&explicit=1">Raja Slot Gacor</a>
+        <a href="https://journal.staisni.ac.id/">Raja Slot Gacor</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://www.etsy.com/c/art-and-Slot Online Gacor/Slot Online Gacor?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=indonesia&ref=breadcrumb_listing&plkey=079651a5f8f0370f403414780f213b9a582f9722%3A1626036047&explicit=1">Slot Online Gacor</a>
+        <a href="https://journal.staisni.ac.id/">Slot Online Gacor</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://www.etsy.com/c/art-and-Slot Online Gacor/Slot Online Gacor/coins?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=indonesia&ref=breadcrumb_listing&plkey=079651a5f8f0370f403414780f213b9a582f9722%3A1626036047&explicit=1">Slot Gacor Gampang Menang</a>
+        <a href="https://journal.staisni.ac.id/">Slot Gacor Gampang Menang</a>
 </div>
     
     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
@@ -3949,7 +3776,7 @@ To sign up for the newsletter, please send an email to egan.newsletter@gmail.com
 
                     <div class="chrome-footer__final-col">
                         <span class="chrome-footer__copyright">
-                            &copy; 2025 Etsy, Inc.
+                            &copy; 2025 Lintas808, Inc.
                         </span>
 
                         <ul class="chrome-footer__final-links wt-list-inline">
