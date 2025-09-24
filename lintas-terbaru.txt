@@ -150,7 +150,7 @@
 <meta property="og:title" content="LINTAS808: Situs Raja Slot Online Gacor Gampang Menang Jackpot Link Slot88" />
 <meta property="og:description" content="LINTAS808 mempunyai raja dari segala situs slot online gacor terbaik resmi link slot88 resmi gampang menang jackpot yang sangat viral di game pragmatic play main game zeus 1000 tanpa bocoran dengan quick spin untuk tahun 2025." />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://journal.staisni.ac.id/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" />
+<meta property="og:url" content="https://journal.staisni.ac.id/" />
 <meta property="og:image" content="https://images2.imgbox.com/ef/52/GK6Tx7HM_o.png" />
 <meta property="product:price:amount" content="105.00" />
 <meta property="product:price:currency" content="USD" />
@@ -170,6 +170,7 @@
 
 
             <link rel="canonical" href="https://journal.staisni.ac.id/" />
+			<meta name="google-site-verification" content="V4SwKeXrqxj2Sr4F89vTpnWy0daOwOECj2_4RpNx9uI" />
 			<link href="https://journal-staisni-new.pages.dev/" rel="amphtml"/>
 <link rel="alternate" href="https://journal.staisni.ac.id/" hreflang="en" />
 <link rel="alternate" href="https://www.etsy.com/fi-en/listing/1626036047/indonesia-100000-rupiah-banknotes-2016" hreflang="en-FI" />
