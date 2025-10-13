@@ -143,7 +143,7 @@
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT DEPOSIT DANA",
-      "item": "https://lpmsuam.iain-manado.ac.id/slot-deposit-dana
+      "item": "https://lpmsuam.iain-manado.ac.id/slot-deposit-dana"
     },
     {
       "@type": "ListItem",
