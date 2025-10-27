@@ -3,7 +3,6 @@
 <p><a href="https://lintas808-slot.com/">https://lintas808-slot.com/</a></p>
 <p><a href="https://lintas808.biz/">https://lintas808.biz/</a></p>
 <p><a href="https://lintas808h.com/">lintas808</a></p>
-<p><a href="https://skb.salatiga.go.id/">https://skb.salatiga.go.id/</a></p>
 <p><a href="https://linklist.bio/lintas808/">https://linklist.bio/lintas808/</a></p>
 <p><a href="https://linklist.bio/lintas808login">https://linklist.bio/lintas808login</a></p>
 <p><a href="https://heylink.me/lintas808/">https://heylink.me/lintas808/</a></p>
@@ -13,4 +12,10 @@
 <p><a href="https://land-sms.com/sms/categories/">https://land-sms.com/sms/categories/</a></p>
 <p><a href="https://memoriesofhalloween.com/">https://memoriesofhalloween.com/</a></p>
 <p><a href="https://buyclenbuterolin.com/">https://buyclenbuterolin.com/</a></p>
+<p><a href="https://heylink.me/ddjarumtoto/">https://heylink.me/ddjarumtoto/</a></p>
+<p><a href="https://desty.page/djarumtoto2">https://desty.page/djarumtoto2</a></p>
+<p><a href="https://linkr.bio/djarumtotoo">https://linkr.bio/djarumtotoo</a></p>
+<p><a href="https://about.me/djarumtotoo/">https://about.me/djarumtotoo/</a></p>
+<p><a href="https://djarumtotoo.weebly.com/">https://djarumtotoo.weebly.com/</a></p>
+<p><a href="https://link.space/@djarumtoto2">https://link.space/@djarumtoto2</a></p>
 </div>
